@@ -68,12 +68,12 @@ This project uses an open-source ASIC flow from RTL design to GDSII layout gener
 - Converts RTL Verilog code into a gate-level netlist.
 - Optimizes logic and maps to standard cells.
 - Outputs a netlist ready for physical design.
-
+ ![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/ALU%20synthesis%20using%20YOSYS.png)
 ### 2. Placement (Graywolf)
 - Determines physical locations for each standard cell.
 - Aims to minimize area, timing delays, and routing congestion.
 - Produces a placement file with cell coordinates.
-
+![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/Placement.png)
 ### 3. Static Timing Analysis (STA)
 - Checks timing paths to ensure the design meets clock frequency constraints.
 - Identifies critical paths and timing violations.
@@ -81,19 +81,19 @@ This project uses an open-source ASIC flow from RTL design to GDSII layout gener
 ### 4. Routing (QRouter)
 - Connects placed cells with metal wires and vias.
 - Minimizes wire length and avoids routing conflicts.
-
+![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/Routing.png)
 ### 5. Design Rule Check (DRC) (Magic)
 - Verifies the layout against foundry manufacturing rules.
 - Detects spacing, width, and overlap violations.
-
+![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/magic.png)
 ### 6. Layout Versus Schematic (LVS) *(optional but recommended)*
 - Confirms that the physical layout matches the original netlist.
 - Ensures connectivity and device correctness.
-
-### 7. GDSII Generation (Magic)
+![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/cells%20in%20magic.png)
+### 7. GDSII Generation (Klayout)
 - Exports the final verified layout into GDSII file format.
 - GDSII is the standard for chip mask fabrication.
-
+![]
 ---
 
 Each of these stages is critical to transforming the RTL description of the ALU into a manufacturable physical chip layout.
