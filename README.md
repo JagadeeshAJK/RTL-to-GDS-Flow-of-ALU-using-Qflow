@@ -4,20 +4,20 @@ This project demonstrates a complete ASIC digital design flow for a simple 2-bit
 
 ---
 
-## 馃敡 Tools Used
+## 🔧 Tools Used
 
-- **Verilog** 鈥� RTL design and testbench
-- **Icarus Verilog + GTKWave** 鈥� Functional simulation
-- **Qflow** 鈥� RTL to GDS flow:
-  - **Yosys** 鈥� Synthesis
-  - **Graywolf** 鈥� Placement
-  - **QRouter** 鈥� Routing
-  - **Magic** 鈥� Layout, DRC, GDS export
-- **KLayout** 鈥� GDS viewing
+- **Verilog** – RTL design and testbench
+- **Icarus Verilog + GTKWave** – Functional simulation
+- **Qflow** – RTL to GDS flow:
+  - **Yosys** – Synthesis
+  - **Graywolf** – Placement
+  - **QRouter** – Routing
+  - **Magic** – Layout, DRC, GDS export
+- **KLayout** – GDS viewing
 
 ---
 
-## 馃搶 ALU Functionality
+## 📌 ALU Functionality
 
 A simple 2-bit ALU performing:
 - Addition
@@ -29,7 +29,7 @@ Operations are selected using a 2-bit control signal.
 
 ---
 
-## 馃搨 File Descriptions
+## 📂 File Descriptions
 
 | File/Folder        | Description                                |
 |--------------------|--------------------------------------------|
@@ -42,7 +42,7 @@ Operations are selected using a 2-bit control signal.
 
 ---
 
-## 鈻讹笍 How to Simulate (Functional)
+## ▶️ How to Simulate (Functional)
 
 1. Install Icarus Verilog and GTKWave
 2. Run:
