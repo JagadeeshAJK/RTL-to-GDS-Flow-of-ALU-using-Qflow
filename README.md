@@ -93,7 +93,8 @@ This project uses an open-source ASIC flow from RTL design to GDSII layout gener
 ### 7. GDSII Generation (Klayout)
 - Exports the final verified layout into GDSII file format.
 - GDSII is the standard for chip mask fabrication.
-![]
+![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/klayout%20view%20of%20ALU.png)
+![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/Klayout%20cells.png)
 ---
 
 Each of these stages is critical to transforming the RTL description of the ALU into a manufacturable physical chip layout.
