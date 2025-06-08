@@ -41,9 +41,9 @@ To simulate the ALU functionality:
    iverilog -o alu_test ALU.v ALU_tb.v
    
 3. Run the simulation:
-vvp alu_test
+   vvp alu_test
 4. Open the waveform viewer:
-gtkwave alu.vcd
+   gtkwave alu.vcd
 
 ![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/Simulation%20using%20GTKWAVE.png)
 
@@ -58,7 +58,7 @@ This project follows a full open-source ASIC flow starting from the Verilog RTL 
 - Converts RTL Verilog code into a gate-level netlist.
 - Optimizes logic and maps to standard cells.
 - Outputs a netlist ready for physical design.
-- 
+
  ![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/ALU%20synthesis%20using%20YOSYS.png)
 
 ### 2. Placement (Graywolf)
@@ -89,7 +89,7 @@ This project follows a full open-source ASIC flow starting from the Verilog RTL 
 ![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/magic.png)
 
 ![pro](https://github.com/JagadeeshAJK/RTL-to-GDS-Flow-of-ALU-using-Qflow/blob/main/cells%20in%20magic.png)
-### 7. GDSII Generation (Klayout)
+### 6. GDSII Generation (Klayout)
   The final step exports the completed and verified layout to the GDSII format, which is the industry-standard file for photomask fabrication. This file contains all layer geometries and design information needed for chip manufacturing. The GDSII file is handed off to the foundry for tapeout and fabrication, marking the end of the physical design process.
 - Exports the final verified layout into GDSII file format.
 - GDSII is the standard for chip mask fabrication.
