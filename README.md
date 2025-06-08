@@ -17,17 +17,6 @@ This project demonstrates a complete ASIC digital design flow for a simple 2-bit
 
 ---
 
-## 📌 ALU Functionality
-
-A simple 2-bit ALU performing:
-- Addition
-- Subtraction
-- AND
-- OR
-
-Operations are selected using a 2-bit control signal.
-
----
 
 ## 📂 File Descriptions
 
