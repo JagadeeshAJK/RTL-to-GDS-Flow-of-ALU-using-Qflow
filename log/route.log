@@ -1,0 +1,5786 @@
+Qflow route logfile created on Sunday 08 June 2025 04:52:41 PM IST
+qrouter -noc  -s ALU.cfg
+Qrouter detail maze router version 1.4.71.T
+Reading LEF data from file /usr/share/qflow/tech/osu050/osu050_stdcells.lef.
+LEF Read, Line 115: NOTE:  Old format VIARULE ignored.
+LEF Read, Line 116: NOTE:  Old format VIARULE ignored.
+LEF Read, Line 120: NOTE:  Old format VIARULE ignored.
+LEF Read, Line 121: NOTE:  Old format VIARULE ignored.
+LEF Read, Line 131: NOTE:  Old format VIARULE ignored.
+LEF Read, Line 132: NOTE:  Old format VIARULE ignored.
+LEF Read, Line 136: NOTE:  Old format VIARULE ignored.
+LEF Read, Line 137: NOTE:  Old format VIARULE ignored.
+LEF file:  Defines site corner (ignored)
+LEF file:  Defines site IO (ignored)
+LEF file:  Defines site core (ignored)
+LEF read: Processed 3221 lines.
+LEF Read: encountered 0 errors and 8 warnings total.
+Reading DEF data from file ALU.def.
+Diagnostic: Design name: "ALU"
+  Processed 2 vias total.
+  Processed 985 subcell instances total.
+  Processed 30 pins total.
+  Processed 887 nets total (0 fixed).
+  Processed 2 special nets total (4 fixed).
+DEF read: Processed 4979 lines.
+Output scale = microns / 100, precision 1
+No antenna cell defined!
+There are 889 nets in this design.
+*** Running stage1 routing with defaults
+Finished routing net B[7]
+Nets remaining: 888
+Finished routing net _431_
+Nets remaining: 887
+Finished routing net _376_
+Nets remaining: 886
+Finished routing net _657_
+Nets remaining: 885
+Finished routing net B[4]
+Nets remaining: 884
+Finished routing net B[3]
+Nets remaining: 883
+Finished routing net _92_
+Nets remaining: 882
+Finished routing net B[5]
+Nets remaining: 881
+Finished routing net A[1]
+Nets remaining: 880
+Finished routing net A[7]
+Nets remaining: 879
+Finished routing net A[3]
+Nets remaining: 878
+Finished routing net B[0]
+Nets remaining: 877
+Finished routing net _79_
+Nets remaining: 876
+Failed to route net _365_
+Finished routing net A[2]
+Nets remaining: 875
+Finished routing net _343_
+Nets remaining: 874
+Finished routing net B[6]
+Nets remaining: 873
+Failed to route net _270_
+Finished routing net _45_
+Nets remaining: 872
+Finished routing net _409_
+Nets remaining: 871
+Finished routing net A[4]
+Nets remaining: 870
+Failed to route net _104_
+Failed to route net _174_
+Finished routing net _131_
+Nets remaining: 869
+Finished routing net _200_
+Nets remaining: 868
+Finished routing net A[6]
+Nets remaining: 867
+Failed to route net A[0]
+Failed to route net _21_
+Finished routing net _484_
+Nets remaining: 866
+Finished routing net clk
+Nets remaining: 865
+Finished routing net _668_
+Nets remaining: 864
+Finished routing net _56_
+Nets remaining: 863
+Finished routing net _212_
+Nets remaining: 862
+Failed to route net _247_
+Failed to route net _464_
+Finished routing net _394_
+Nets remaining: 861
+Failed to route net A[5]
+Finished routing net _427_
+Nets remaining: 860
+Finished routing net _469_
+Nets remaining: 859
+Finished routing net _470_
+Nets remaining: 858
+Failed to route net _500_
+Finished routing net _32_
+Nets remaining: 857
+Failed to route net B[2_bF$buf3]
+Failed to route net _354_
+Finished routing net _332_
+Nets remaining: 856
+Failed to route net _319_
+Failed to route net _389_
+Finished routing net _463_
+Nets remaining: 855
+Failed to route net _478_
+Finished routing net _511_
+Nets remaining: 854
+Finished routing net _809_
+Nets remaining: 853
+Finished routing net B[1_bF$buf3]
+Nets remaining: 852
+Finished routing net B[1_bF$buf2]
+Nets remaining: 851
+Failed to route net _299__bF$buf3
+Failed to route net _299__bF$buf2
+Failed to route net _299__bF$buf1
+Finished routing net _299__bF$buf0
+Nets remaining: 850
+Failed to route net _387__bF$buf3
+Failed to route net _387__bF$buf2
+Failed to route net _486__bF$buf3
+Failed to route net B[2_bF$buf2]
+Failed to route net B[2_bF$buf1]
+Failed to route net B[2_bF$buf0]
+Finished routing net _103_
+Nets remaining: 849
+Finished routing net _679_
+Nets remaining: 848
+Finished routing net _149_
+Nets remaining: 847
+Failed to route net _398_
+Failed to route net _300_
+Failed to route net _338_
+Finished routing net _386_
+Nets remaining: 846
+Finished routing net _392_
+Nets remaining: 845
+Failed to route net _402_
+Finished routing net select[0]
+Nets remaining: 844
+Finished routing net _437_
+Nets remaining: 843
+Failed to route net _438_
+Finished routing net _441_
+Nets remaining: 842
+Failed to route net _454_
+Failed to route net _456_
+Finished routing net _460_
+Nets remaining: 841
+Finished routing net _222_
+Nets remaining: 840
+Finished routing net _474_
+Nets remaining: 839
+Failed to route net _288_
+Failed to route net _494_
+Failed to route net _514_
+Failed to route net _811_
+Failed to route net _4_
+Finished routing net B[1]
+Nets remaining: 838
+Failed to route net B[1_bF$buf1]
+Failed to route net B[1_bF$buf0]
+Failed to route net _299_
+Failed to route net _387_
+Failed to route net _387__bF$buf1
+Finished routing net _387__bF$buf0
+Nets remaining: 837
+Failed to route net _486_
+Failed to route net _486__bF$buf2
+Failed to route net _486__bF$buf1
+Failed to route net _486__bF$buf0
+Finished routing net B[2]
+Nets remaining: 836
+Failed to route net _107_
+Finished routing net _86_
+Nets remaining: 835
+Finished routing net _95_
+Nets remaining: 834
+Finished routing net _69_
+Nets remaining: 833
+Finished routing net _143_
+Nets remaining: 832
+Finished routing net _85_
+Nets remaining: 831
+Finished routing net _87_
+Nets remaining: 830
+Finished routing net _153_
+Nets remaining: 829
+Finished routing net _157_
+Nets remaining: 828
+Failed to route net _164_
+Finished routing net _205_
+Nets remaining: 827
+Finished routing net _213_
+Nets remaining: 826
+Finished routing net _223_
+Nets remaining: 825
+Failed to route net _227_
+Finished routing net _246_
+Nets remaining: 824
+Failed to route net _252_
+Failed to route net _253_
+Failed to route net _271_
+Failed to route net _276_
+Failed to route net _397_
+Finished routing net _410_
+Nets remaining: 823
+Finished routing net _428_
+Nets remaining: 822
+Finished routing net _434_
+Nets remaining: 821
+Finished routing net _440_
+Nets remaining: 820
+Failed to route net _447_
+Failed to route net _448_
+Failed to route net _455_
+Finished routing net _457_
+Nets remaining: 819
+Finished routing net _473_
+Nets remaining: 818
+Finished routing net _509_
+Nets remaining: 817
+Finished routing net _510_
+Nets remaining: 816
+Finished routing net _540_
+Nets remaining: 815
+Failed to route net _277_
+Finished routing net _605_
+Nets remaining: 814
+Failed to route net _36_
+Failed to route net _528_
+Failed to route net _722_
+Failed to route net _744_
+Failed to route net _818_
+Failed to route net _820_
+Finished routing net _15_
+Nets remaining: 813
+Finished routing net _25_
+Nets remaining: 812
+Finished routing net _43_
+Nets remaining: 811
+Finished routing net _109_
+Nets remaining: 810
+Failed to route net _110_
+Failed to route net _28_
+Finished routing net _76_
+Nets remaining: 809
+Finished routing net _78_
+Nets remaining: 808
+Finished routing net _101_
+Nets remaining: 807
+Finished routing net _51_
+Nets remaining: 806
+Finished routing net _49_
+Nets remaining: 805
+Finished routing net _59_
+Nets remaining: 804
+Finished routing net _137_
+Nets remaining: 803
+Finished routing net _142_
+Nets remaining: 802
+Failed to route net _74_
+Failed to route net _144_
+Failed to route net _151_
+Finished routing net _165_
+Nets remaining: 801
+Failed to route net _178_
+Finished routing net _187_
+Nets remaining: 800
+Finished routing net _190_
+Nets remaining: 799
+Finished routing net _194_
+Nets remaining: 798
+Finished routing net _197_
+Nets remaining: 797
+Finished routing net _201_
+Nets remaining: 796
+Finished routing net _229_
+Nets remaining: 795
+Finished routing net _239_
+Nets remaining: 794
+Failed to route net _245_
+Finished routing net _250_
+Nets remaining: 793
+Failed to route net _256_
+Finished routing net _258_
+Nets remaining: 792
+Failed to route net _263_
+Finished routing net _264_
+Nets remaining: 791
+Failed to route net _265_
+Failed to route net _267_
+Finished routing net _272_
+Nets remaining: 790
+Failed to route net _274_
+Finished routing net _284_
+Nets remaining: 789
+Failed to route net _310_
+Finished routing net _308_
+Nets remaining: 788
+Finished routing net _351_
+Nets remaining: 787
+Failed to route net _356_
+Failed to route net _358_
+Failed to route net _396_
+Failed to route net _401_
+Failed to route net _407_
+Finished routing net _408_
+Nets remaining: 786
+Finished routing net _412_
+Nets remaining: 785
+Finished routing net _415_
+Nets remaining: 784
+Finished routing net select[3]
+Nets remaining: 783
+Finished routing net select[2]
+Nets remaining: 782
+Finished routing net _421_
+Nets remaining: 781
+Failed to route net _423_
+Finished routing net _424_
+Nets remaining: 780
+Failed to route net _425_
+Failed to route net _426_
+Finished routing net _429_
+Nets remaining: 779
+Failed to route net _435_
+Finished routing net _255_
+Nets remaining: 778
+Failed to route net _451_
+Failed to route net _458_
+Finished routing net select[1]
+Nets remaining: 777
+Failed to route net _462_
+Finished routing net _465_
+Nets remaining: 776
+Finished routing net _472_
+Nets remaining: 775
+Failed to route net _477_
+Failed to route net _495_
+Finished routing net _525_
+Nets remaining: 774
+Finished routing net _531_
+Nets remaining: 773
+Finished routing net _533_
+Nets remaining: 772
+Finished routing net _575_
+Nets remaining: 771
+Failed to route net _581_
+Finished routing net _596_
+Nets remaining: 770
+Finished routing net _600_
+Nets remaining: 769
+Finished routing net _637_
+Nets remaining: 768
+Finished routing net _653_
+Nets remaining: 767
+Finished routing net _654_
+Nets remaining: 766
+Finished routing net _660_
+Nets remaining: 765
+Failed to route net _671_
+Failed to route net _50_
+Failed to route net _727_
+Finished routing net _800_
+Nets remaining: 764
+Failed to route net _560_
+Failed to route net _733_
+Failed to route net _754_
+Failed to route net _776_
+Failed to route net _798_
+Failed to route net _808_
+Failed to route net _819_
+Failed to route net _10_
+Failed to route net _16_
+Failed to route net _29_
+Failed to route net _40_
+Failed to route net _46_
+Finished routing net _73_
+Nets remaining: 763
+Finished routing net _75_
+Nets remaining: 762
+Failed to route net _84_
+Failed to route net _812_
+Finished routing net _111_
+Nets remaining: 761
+Failed to route net _112_
+Finished routing net _114_
+Nets remaining: 760
+Finished routing net _67_
+Nets remaining: 759
+Failed to route net _68_
+Finished routing net _115_
+Nets remaining: 758
+Failed to route net _116_
+Finished routing net _88_
+Nets remaining: 757
+Finished routing net _121_
+Nets remaining: 756
+Finished routing net _122_
+Nets remaining: 755
+Finished routing net _123_
+Nets remaining: 754
+Finished routing net _93_
+Nets remaining: 753
+Finished routing net _127_
+Nets remaining: 752
+Finished routing net _129_
+Nets remaining: 751
+Failed to route net _130_
+Finished routing net _133_
+Nets remaining: 750
+Failed to route net _136_
+Finished routing net _139_
+Nets remaining: 749
+Finished routing net _98_
+Nets remaining: 748
+Finished routing net _147_
+Nets remaining: 747
+Finished routing net _148_
+Nets remaining: 746
+Finished routing net _152_
+Nets remaining: 745
+Finished routing net _158_
+Nets remaining: 744
+Finished routing net _159_
+Nets remaining: 743
+Failed to route net _161_
+Finished routing net _162_
+Nets remaining: 742
+Failed to route net _166_
+Failed to route net _167_
+Failed to route net _169_
+Failed to route net _171_
+Finished routing net _173_
+Nets remaining: 741
+Failed to route net _175_
+Finished routing net _179_
+Nets remaining: 740
+Finished routing net _185_
+Nets remaining: 739
+Finished routing net _186_
+Nets remaining: 738
+Finished routing net _202_
+Nets remaining: 737
+Finished routing net _206_
+Nets remaining: 736
+Finished routing net _208_
+Nets remaining: 735
+Finished routing net _209_
+Nets remaining: 734
+Finished routing net _215_
+Nets remaining: 733
+Finished routing net _216_
+Nets remaining: 732
+Finished routing net _217_
+Nets remaining: 731
+Finished routing net _219_
+Nets remaining: 730
+Failed to route net _220_
+Finished routing net _221_
+Nets remaining: 729
+Failed to route net _224_
+Failed to route net _225_
+Failed to route net _226_
+Finished routing net _230_
+Nets remaining: 728
+Failed to route net _234_
+Failed to route net _236_
+Finished routing net _237_
+Nets remaining: 727
+Finished routing net _238_
+Nets remaining: 726
+Failed to route net _240_
+Failed to route net _242_
+Failed to route net _243_
+Finished routing net _251_
+Nets remaining: 725
+Failed to route net _254_
+Failed to route net _260_
+Failed to route net _262_
+Failed to route net _268_
+Failed to route net _273_
+Failed to route net _280_
+Failed to route net _281_
+Failed to route net _283_
+Failed to route net _289_
+Finished routing net _292_
+Nets remaining: 724
+Failed to route net _294_
+Failed to route net _313_
+Finished routing net _315_
+Nets remaining: 723
+Failed to route net _317_
+Failed to route net _327_
+Failed to route net _330_
+Finished routing net _333_
+Nets remaining: 722
+Finished routing net _335_
+Nets remaining: 721
+Failed to route net _336_
+Finished routing net _341_
+Nets remaining: 720
+Finished routing net _349_
+Nets remaining: 719
+Failed to route net _352_
+Failed to route net _361_
+Failed to route net _363_
+Finished routing net _366_
+Nets remaining: 718
+Finished routing net _368_
+Nets remaining: 717
+Failed to route net _393_
+Failed to route net _395_
+Failed to route net _399_
+Failed to route net _400_
+Failed to route net _403_
+Failed to route net _405_
+Finished routing net _414_
+Nets remaining: 716
+Finished routing net _233_
+Nets remaining: 715
+Failed to route net _417_
+Finished routing net _418_
+Nets remaining: 714
+Finished routing net _419_
+Nets remaining: 713
+Failed to route net _432_
+Failed to route net _436_
+Finished routing net _439_
+Nets remaining: 712
+Finished routing net _445_
+Nets remaining: 711
+Finished routing net _266_
+Nets remaining: 710
+Finished routing net _244_
+Nets remaining: 709
+Failed to route net _459_
+Failed to route net _479_
+Failed to route net _482_
+Failed to route net _491_
+Failed to route net _497_
+Failed to route net _503_
+Failed to route net _522_
+Failed to route net _523_
+Finished routing net _211_
+Nets remaining: 708
+Finished routing net _534_
+Nets remaining: 707
+Failed to route net _535_
+Finished routing net _537_
+Nets remaining: 706
+Failed to route net _547_
+Failed to route net _554_
+Finished routing net _555_
+Nets remaining: 705
+Finished routing net _561_
+Nets remaining: 704
+Finished routing net _562_
+Nets remaining: 703
+Failed to route net _564_
+Finished routing net _565_
+Nets remaining: 702
+Finished routing net _567_
+Nets remaining: 701
+Finished routing net _569_
+Nets remaining: 700
+Finished routing net _570_
+Nets remaining: 699
+Finished routing net _573_
+Nets remaining: 698
+Failed to route net _589_
+Finished routing net _590_
+Nets remaining: 697
+Finished routing net _595_
+Nets remaining: 696
+Finished routing net _597_
+Nets remaining: 695
+Finished routing net _599_
+Nets remaining: 694
+Finished routing net _601_
+Nets remaining: 693
+Finished routing net _602_
+Nets remaining: 692
+Failed to route net _606_
+Finished routing net _608_
+Nets remaining: 691
+Finished routing net _609_
+Nets remaining: 690
+Failed to route net _610_
+Finished routing net _612_
+Nets remaining: 689
+Finished routing net _615_
+Nets remaining: 688
+Finished routing net _616_
+Nets remaining: 687
+Finished routing net _617_
+Nets remaining: 686
+Finished routing net _618_
+Nets remaining: 685
+Failed to route net _619_
+Finished routing net _632_
+Nets remaining: 684
+Finished routing net _633_
+Nets remaining: 683
+Finished routing net _634_
+Nets remaining: 682
+Finished routing net _636_
+Nets remaining: 681
+Finished routing net _638_
+Nets remaining: 680
+Finished routing net _639_
+Nets remaining: 679
+Finished routing net _640_
+Nets remaining: 678
+Failed to route net _35_
+Finished routing net _641_
+Nets remaining: 677
+Finished routing net _643_
+Nets remaining: 676
+Finished routing net _645_
+Nets remaining: 675
+Finished routing net _647_
+Nets remaining: 674
+Finished routing net _648_
+Nets remaining: 673
+Finished routing net _649_
+Nets remaining: 672
+Finished routing net _651_
+Nets remaining: 671
+Finished routing net _659_
+Nets remaining: 670
+Finished routing net _666_
+Nets remaining: 669
+Failed to route net _667_
+Finished routing net _685_
+Nets remaining: 668
+Finished routing net _686_
+Nets remaining: 667
+Finished routing net _688_
+Nets remaining: 666
+Finished routing net _690_
+Nets remaining: 665
+Finished routing net _693_
+Nets remaining: 664
+Finished routing net _694_
+Nets remaining: 663
+Failed to route net _696_
+Finished routing net _697_
+Nets remaining: 662
+Failed to route net _699_
+Failed to route net _702_
+Finished routing net _703_
+Nets remaining: 661
+Finished routing net _706_
+Nets remaining: 660
+Failed to route net _707_
+Failed to route net _708_
+Failed to route net _709_
+Finished routing net _712_
+Nets remaining: 659
+Finished routing net _713_
+Nets remaining: 658
+Failed to route net _715_
+Finished routing net _717_
+Nets remaining: 657
+Finished routing net _719_
+Nets remaining: 656
+Finished routing net _721_
+Nets remaining: 655
+Finished routing net _723_
+Nets remaining: 654
+Finished routing net _724_
+Nets remaining: 653
+Finished routing net _725_
+Nets remaining: 652
+Finished routing net _731_
+Nets remaining: 651
+Finished routing net _732_
+Nets remaining: 650
+Failed to route net _736_
+Failed to route net _711_
+Finished routing net _507_
+Nets remaining: 649
+Failed to route net _453_
+Failed to route net _760_
+Finished routing net _788_
+Nets remaining: 648
+Failed to route net _794_
+Failed to route net _518_
+Finished routing net _539_
+Nets remaining: 647
+Failed to route net _582_
+Failed to route net _614_
+Finished routing net _689_
+Nets remaining: 646
+Failed to route net _700_
+Failed to route net _807_
+Finished routing net _813_
+Nets remaining: 645
+Failed to route net _817_
+Failed to route net _6_
+Failed to route net _8_
+Failed to route net _11_
+Failed to route net _12_
+Failed to route net _18_
+Failed to route net _20_
+Failed to route net _22_
+Failed to route net _23_
+Failed to route net _24_
+Finished routing net _26_
+Nets remaining: 644
+Failed to route net _27_
+Failed to route net _33_
+Failed to route net _37_
+Finished routing net _39_
+Nets remaining: 643
+Failed to route net _41_
+Failed to route net _42_
+Failed to route net _53_
+Failed to route net _57_
+Finished routing net _70_
+Nets remaining: 642
+Finished routing net _71_
+Nets remaining: 641
+Failed to route net _82_
+Finished routing net _105_
+Nets remaining: 640
+Failed to route net _108_
+Failed to route net _113_
+Finished routing net _117_
+Nets remaining: 639
+Failed to route net _118_
+Failed to route net _119_
+Finished routing net _120_
+Nets remaining: 638
+Finished routing net _124_
+Nets remaining: 637
+Finished routing net _125_
+Nets remaining: 636
+Failed to route net _126_
+Finished routing net _128_
+Nets remaining: 635
+Finished routing net _132_
+Nets remaining: 634
+Failed to route net _134_
+Finished routing net _135_
+Nets remaining: 633
+Finished routing net _138_
+Nets remaining: 632
+Finished routing net _140_
+Nets remaining: 631
+Finished routing net _141_
+Nets remaining: 630
+Finished routing net _145_
+Nets remaining: 629
+Finished routing net _146_
+Nets remaining: 628
+Finished routing net _150_
+Nets remaining: 627
+Failed to route net _154_
+Finished routing net _155_
+Nets remaining: 626
+Finished routing net _156_
+Nets remaining: 625
+Finished routing net _160_
+Nets remaining: 624
+Failed to route net _163_
+Failed to route net _168_
+Failed to route net _170_
+Failed to route net _172_
+Finished routing net _176_
+Nets remaining: 623
+Finished routing net _177_
+Nets remaining: 622
+Finished routing net _180_
+Nets remaining: 621
+Failed to route net _181_
+Failed to route net _182_
+Failed to route net _183_
+Finished routing net _184_
+Nets remaining: 620
+Failed to route net _188_
+Finished routing net _189_
+Nets remaining: 619
+Failed to route net _191_
+Finished routing net _192_
+Nets remaining: 618
+Failed to route net _193_
+Finished routing net _195_
+Nets remaining: 617
+Finished routing net _196_
+Nets remaining: 616
+Failed to route net _198_
+Finished routing net _199_
+Nets remaining: 615
+Finished routing net _203_
+Nets remaining: 614
+Failed to route net _204_
+Finished routing net _207_
+Nets remaining: 613
+Failed to route net _210_
+Failed to route net _214_
+Failed to route net _218_
+Finished routing net _228_
+Nets remaining: 612
+Failed to route net _231_
+Finished routing net _232_
+Nets remaining: 611
+Finished routing net _235_
+Nets remaining: 610
+Failed to route net _241_
+Finished routing net _248_
+Nets remaining: 609
+Failed to route net _249_
+Finished routing net _257_
+Nets remaining: 608
+Finished routing net _259_
+Nets remaining: 607
+Finished routing net _261_
+Nets remaining: 606
+Failed to route net _269_
+Failed to route net _275_
+Failed to route net _278_
+Finished routing net _279_
+Nets remaining: 605
+Failed to route net _321_
+Finished routing net _282_
+Nets remaining: 604
+Finished routing net _285_
+Nets remaining: 603
+Finished routing net _286_
+Nets remaining: 602
+Finished routing net _287_
+Nets remaining: 601
+Finished routing net _290_
+Nets remaining: 600
+Finished routing net _291_
+Nets remaining: 599
+Finished routing net _293_
+Nets remaining: 598
+Failed to route net _295_
+Finished routing net _296_
+Nets remaining: 597
+Failed to route net _297_
+Failed to route net _298_
+Finished routing net _301_
+Nets remaining: 596
+Failed to route net _302_
+Finished routing net _303_
+Nets remaining: 595
+Failed to route net _304_
+Finished routing net _305_
+Nets remaining: 594
+Failed to route net _306_
+Failed to route net _307_
+Failed to route net _309_
+Finished routing net _311_
+Nets remaining: 593
+Finished routing net _312_
+Nets remaining: 592
+Failed to route net _314_
+Finished routing net _316_
+Nets remaining: 591
+Finished routing net _318_
+Nets remaining: 590
+Failed to route net _320_
+Finished routing net _322_
+Nets remaining: 589
+Finished routing net _323_
+Nets remaining: 588
+Finished routing net _324_
+Nets remaining: 587
+Failed to route net _325_
+Failed to route net _326_
+Failed to route net _328_
+Finished routing net _329_
+Nets remaining: 586
+Finished routing net _331_
+Nets remaining: 585
+Failed to route net _334_
+Finished routing net _337_
+Nets remaining: 584
+Failed to route net _339_
+Finished routing net _340_
+Nets remaining: 583
+Finished routing net _342_
+Nets remaining: 582
+Finished routing net _344_
+Nets remaining: 581
+Failed to route net _345_
+Failed to route net _346_
+Finished routing net _347_
+Nets remaining: 580
+Finished routing net _348_
+Nets remaining: 579
+Failed to route net _350_
+Finished routing net _353_
+Nets remaining: 578
+Failed to route net _355_
+Finished routing net _357_
+Nets remaining: 577
+Finished routing net _359_
+Nets remaining: 576
+Failed to route net _360_
+Finished routing net _362_
+Nets remaining: 575
+Finished routing net _364_
+Nets remaining: 574
+Finished routing net _367_
+Nets remaining: 573
+Finished routing net _369_
+Nets remaining: 572
+Failed to route net _370_
+Finished routing net _371_
+Nets remaining: 571
+Finished routing net _372_
+Nets remaining: 570
+Finished routing net _373_
+Nets remaining: 569
+Failed to route net _374_
+Failed to route net _375_
+Failed to route net _377_
+Failed to route net _378_
+Finished routing net _379_
+Nets remaining: 568
+Failed to route net _380_
+Finished routing net _381_
+Nets remaining: 567
+Failed to route net _382_
+Failed to route net _383_
+Failed to route net _384_
+Failed to route net _385_
+Finished routing net _388_
+Nets remaining: 566
+Finished routing net _390_
+Nets remaining: 565
+Finished routing net _391_
+Nets remaining: 564
+Finished routing net _404_
+Nets remaining: 563
+Failed to route net _406_
+Failed to route net _411_
+Failed to route net _413_
+Finished routing net _416_
+Nets remaining: 562
+Failed to route net _422_
+Finished routing net _430_
+Nets remaining: 561
+Failed to route net _433_
+Failed to route net _443_
+Finished routing net _444_
+Nets remaining: 560
+Failed to route net _446_
+Failed to route net _449_
+Finished routing net _450_
+Nets remaining: 559
+Finished routing net _452_
+Nets remaining: 558
+Failed to route net _461_
+Failed to route net _466_
+Failed to route net _467_
+Finished routing net _468_
+Nets remaining: 557
+Finished routing net _471_
+Nets remaining: 556
+Failed to route net _476_
+Failed to route net _480_
+Finished routing net _481_
+Nets remaining: 555
+Failed to route net _483_
+Finished routing net _485_
+Nets remaining: 554
+Finished routing net _487_
+Nets remaining: 553
+Failed to route net _488_
+Failed to route net _489_
+Finished routing net _490_
+Nets remaining: 552
+Finished routing net _0_[0]
+Nets remaining: 551
+Finished routing net _492_
+Nets remaining: 550
+Failed to route net _493_
+Failed to route net _498_
+Failed to route net _499_
+Finished routing net _501_
+Nets remaining: 549
+Failed to route net _502_
+Failed to route net _504_
+Finished routing net _505_
+Nets remaining: 548
+Finished routing net _506_
+Nets remaining: 547
+Failed to route net _508_
+Finished routing net _512_
+Nets remaining: 546
+Failed to route net _513_
+Finished routing net _515_
+Nets remaining: 545
+Finished routing net _516_
+Nets remaining: 544
+Finished routing net _517_
+Nets remaining: 543
+Failed to route net _519_
+Finished routing net _520_
+Nets remaining: 542
+Failed to route net _0_[1]
+Failed to route net _521_
+Finished routing net _524_
+Nets remaining: 541
+Failed to route net _526_
+Failed to route net _527_
+Failed to route net _529_
+Failed to route net _530_
+Finished routing net _532_
+Nets remaining: 540
+Failed to route net _536_
+Finished routing net _538_
+Nets remaining: 539
+Finished routing net _541_
+Nets remaining: 538
+Finished routing net _542_
+Nets remaining: 537
+Finished routing net _543_
+Nets remaining: 536
+Finished routing net _544_
+Nets remaining: 535
+Failed to route net _545_
+Failed to route net _546_
+Failed to route net _548_
+Failed to route net _549_
+Failed to route net _551_
+Failed to route net _552_
+Failed to route net _553_
+Failed to route net _0_[2]
+Finished routing net _556_
+Nets remaining: 534
+Failed to route net _557_
+Failed to route net _558_
+Finished routing net _559_
+Nets remaining: 533
+Failed to route net _563_
+Finished routing net _566_
+Nets remaining: 532
+Failed to route net _568_
+Finished routing net _572_
+Nets remaining: 531
+Finished routing net _574_
+Nets remaining: 530
+Failed to route net _576_
+Failed to route net _577_
+Failed to route net _578_
+Finished routing net _579_
+Nets remaining: 529
+Failed to route net _580_
+Failed to route net _583_
+Finished routing net _584_
+Nets remaining: 528
+Failed to route net _585_
+Failed to route net _586_
+Finished routing net _587_
+Nets remaining: 527
+Failed to route net _588_
+Failed to route net _0_[3]
+Finished routing net _591_
+Nets remaining: 526
+Finished routing net _593_
+Nets remaining: 525
+Failed to route net _594_
+Finished routing net _598_
+Nets remaining: 524
+Failed to route net _604_
+Failed to route net _607_
+Finished routing net _611_
+Nets remaining: 523
+Finished routing net _613_
+Nets remaining: 522
+Failed to route net _620_
+Failed to route net _621_
+Finished routing net _622_
+Nets remaining: 521
+Finished routing net _623_
+Nets remaining: 520
+Failed to route net _624_
+Finished routing net _626_
+Nets remaining: 519
+Failed to route net _627_
+Failed to route net _628_
+Finished routing net _629_
+Nets remaining: 518
+Failed to route net _630_
+Finished routing net _0_[4]
+Nets remaining: 517
+Finished routing net _631_
+Nets remaining: 516
+Finished routing net _642_
+Nets remaining: 515
+Finished routing net _644_
+Nets remaining: 514
+Finished routing net _650_
+Nets remaining: 513
+Finished routing net _652_
+Nets remaining: 512
+Finished routing net _655_
+Nets remaining: 511
+Finished routing net _656_
+Nets remaining: 510
+Finished routing net _658_
+Nets remaining: 509
+Failed to route net _661_
+Finished routing net _662_
+Nets remaining: 508
+Finished routing net _663_
+Nets remaining: 507
+Finished routing net _664_
+Nets remaining: 506
+Failed to route net _665_
+Finished routing net _669_
+Nets remaining: 505
+Failed to route net _670_
+Finished routing net _672_
+Nets remaining: 504
+Finished routing net _673_
+Nets remaining: 503
+Failed to route net _674_
+Failed to route net _675_
+Finished routing net _676_
+Nets remaining: 502
+Failed to route net _677_
+Failed to route net _678_
+Finished routing net _680_
+Nets remaining: 501
+Finished routing net _681_
+Nets remaining: 500
+Failed to route net _682_
+Failed to route net _683_
+Failed to route net _0_[5]
+Finished routing net _684_
+Nets remaining: 499
+Finished routing net _687_
+Nets remaining: 498
+Finished routing net _691_
+Nets remaining: 497
+Finished routing net _692_
+Nets remaining: 496
+Failed to route net _695_
+Finished routing net _698_
+Nets remaining: 495
+Finished routing net _701_
+Nets remaining: 494
+Failed to route net _704_
+Finished routing net _705_
+Nets remaining: 493
+Failed to route net _710_
+Finished routing net _714_
+Nets remaining: 492
+Failed to route net _716_
+Finished routing net _718_
+Nets remaining: 491
+Finished routing net _720_
+Nets remaining: 490
+Finished routing net _726_
+Nets remaining: 489
+Failed to route net _728_
+Failed to route net _729_
+Finished routing net _730_
+Nets remaining: 488
+Failed to route net _734_
+Finished routing net _735_
+Nets remaining: 487
+Failed to route net _737_
+Failed to route net _738_
+Failed to route net _739_
+Finished routing net _740_
+Nets remaining: 486
+Finished routing net _741_
+Nets remaining: 485
+Failed to route net _742_
+Failed to route net _743_
+Finished routing net _745_
+Nets remaining: 484
+Finished routing net _746_
+Nets remaining: 483
+Failed to route net _747_
+Failed to route net _748_
+Failed to route net _749_
+Finished routing net _0_[6]
+Nets remaining: 482
+Failed to route net _750_
+Finished routing net _751_
+Nets remaining: 481
+Finished routing net _752_
+Nets remaining: 480
+Finished routing net _753_
+Nets remaining: 479
+Finished routing net _755_
+Nets remaining: 478
+Failed to route net _756_
+Finished routing net _757_
+Nets remaining: 477
+Finished routing net _758_
+Nets remaining: 476
+Failed to route net _759_
+Finished routing net _761_
+Nets remaining: 475
+Failed to route net _762_
+Finished routing net _763_
+Nets remaining: 474
+Failed to route net _764_
+Finished routing net _766_
+Nets remaining: 473
+Failed to route net _767_
+Finished routing net _768_
+Nets remaining: 472
+Finished routing net _769_
+Nets remaining: 471
+Finished routing net _770_
+Nets remaining: 470
+Failed to route net _771_
+Failed to route net _772_
+Finished routing net _773_
+Nets remaining: 469
+Failed to route net _774_
+Failed to route net _775_
+Failed to route net _777_
+Failed to route net _778_
+Finished routing net _779_
+Nets remaining: 468
+Finished routing net _780_
+Nets remaining: 467
+Failed to route net _781_
+Finished routing net _782_
+Nets remaining: 466
+Finished routing net _783_
+Nets remaining: 465
+Finished routing net _784_
+Nets remaining: 464
+Finished routing net _785_
+Nets remaining: 463
+Finished routing net _786_
+Nets remaining: 462
+Failed to route net _789_
+Failed to route net _790_
+Finished routing net _791_
+Nets remaining: 461
+Failed to route net _792_
+Failed to route net _793_
+Failed to route net _795_
+Finished routing net _796_
+Nets remaining: 460
+Finished routing net _797_
+Nets remaining: 459
+Finished routing net _799_
+Nets remaining: 458
+Finished routing net _801_
+Nets remaining: 457
+Finished routing net _802_
+Nets remaining: 456
+Finished routing net _803_
+Nets remaining: 455
+Finished routing net _804_
+Nets remaining: 454
+Failed to route net _805_
+Finished routing net _0_[7]
+Nets remaining: 453
+Finished routing net _822_
+Nets remaining: 452
+Failed to route net _821_[0]
+Finished routing net ALU_out[0]
+Nets remaining: 451
+Finished routing net _821_[1]
+Nets remaining: 450
+Finished routing net ALU_out[1]
+Nets remaining: 449
+Failed to route net _821_[2]
+Finished routing net ALU_out[2]
+Nets remaining: 448
+Finished routing net _821_[3]
+Nets remaining: 447
+Finished routing net ALU_out[3]
+Nets remaining: 446
+Finished routing net _821_[4]
+Nets remaining: 445
+Finished routing net ALU_out[4]
+Nets remaining: 444
+Finished routing net _821_[5]
+Nets remaining: 443
+Finished routing net ALU_out[5]
+Nets remaining: 442
+Finished routing net _821_[6]
+Nets remaining: 441
+Finished routing net ALU_out[6]
+Nets remaining: 440
+Finished routing net _821_[7]
+Nets remaining: 439
+Finished routing net ALU_out[7]
+Nets remaining: 438
+Finished routing net Carry_out
+Nets remaining: 437
+Finished routing net _420_
+Nets remaining: 436
+Finished routing net _442_
+Nets remaining: 435
+Finished routing net _475_
+Nets remaining: 434
+Failed to route net _496_
+Finished routing net _550_
+Nets remaining: 433
+Finished routing net _571_
+Nets remaining: 432
+Finished routing net _592_
+Nets remaining: 431
+Failed to route net _603_
+Failed to route net _625_
+Finished routing net _635_
+Nets remaining: 430
+Failed to route net _646_
+Finished routing net _765_
+Nets remaining: 429
+Finished routing net _787_
+Nets remaining: 428
+Finished routing net _806_
+Nets remaining: 427
+Finished routing net _810_
+Nets remaining: 426
+Finished routing net _814_
+Nets remaining: 425
+Finished routing net _815_
+Nets remaining: 424
+Finished routing net _816_
+Nets remaining: 423
+Failed to route net _1_
+Finished routing net _2_
+Nets remaining: 422
+Finished routing net _3_
+Nets remaining: 421
+Finished routing net _5_
+Nets remaining: 420
+Failed to route net _7_
+Failed to route net _9_
+Failed to route net _13_
+Failed to route net _14_
+Failed to route net _17_
+Finished routing net _19_
+Nets remaining: 419
+Failed to route net _30_
+Failed to route net _31_
+Finished routing net _34_
+Nets remaining: 418
+Failed to route net _38_
+Finished routing net _44_
+Nets remaining: 417
+Finished routing net _47_
+Nets remaining: 416
+Failed to route net _48_
+Failed to route net _52_
+Finished routing net _54_
+Nets remaining: 415
+Finished routing net _55_
+Nets remaining: 414
+Failed to route net _58_
+Finished routing net _60_
+Nets remaining: 413
+Failed to route net _61_
+Failed to route net _62_
+Finished routing net _63_
+Nets remaining: 412
+Failed to route net _64_
+Failed to route net _65_
+Finished routing net _66_
+Nets remaining: 411
+Finished routing net _72_
+Nets remaining: 410
+Finished routing net _77_
+Nets remaining: 409
+Finished routing net _80_
+Nets remaining: 408
+Finished routing net _81_
+Nets remaining: 407
+Finished routing net _83_
+Nets remaining: 406
+Finished routing net _89_
+Nets remaining: 405
+Finished routing net _90_
+Nets remaining: 404
+Finished routing net _91_
+Nets remaining: 403
+Failed to route net _94_
+Failed to route net _96_
+Failed to route net _97_
+Finished routing net _99_
+Nets remaining: 402
+Finished routing net _100_
+Nets remaining: 401
+Finished routing net _102_
+Nets remaining: 400
+Finished routing net _106_
+Nets remaining: 399
+
+----------------------------------------------
+Progress: Stage 1 total routes completed: 1339
+Failed net routes: 408
+----------------------------------------------
+*** Running stage2 routing with options mask 10, effort 10
+Nets remaining: 408
+Best route of _97_ collides with nets: _98_ _45_ 
+Ripping up blocking net _98_
+Ripping up blocking net _45_
+Nets remaining: 409
+Nets remaining: 408
+Best route of _94_ collides with nets: _115_ _127_ _668_ 
+Ripping up blocking net _115_
+Ripping up blocking net _127_
+Ripping up blocking net _668_
+Nets remaining: 410
+Best route of _65_ collides with net: _431_ 
+Ripping up blocking net _431_
+Nets remaining: 410
+Nets remaining: 409
+Best route of _62_ collides with net: _95_ 
+Ripping up blocking net _95_
+Nets remaining: 409
+Nets remaining: 408
+Best route of _58_ collides with net: _59_ 
+Ripping up blocking net _59_
+Nets remaining: 408
+Best route of _52_ collides with net: _57_ 
+Ripping up blocking net _57_
+Nets remaining: 408
+Best route of _48_ collides with net: _33_ 
+Ripping up blocking net _33_
+Nets remaining: 408
+Best route of _38_ collides with net: B[5] 
+Ripping up blocking net B[5]
+Nets remaining: 408
+Nets remaining: 407
+Nets remaining: 406
+Best route of _17_ collides with net: A[4] 
+Ripping up blocking net A[4]
+Nets remaining: 406
+Nets remaining: 405
+Best route of _13_ collides with nets: _32_ _15_ 
+Ripping up blocking net _32_
+Ripping up blocking net _15_
+Nets remaining: 406
+Nets remaining: 405
+Nets remaining: 404
+Best route of _1_ collides with net: A[3] 
+Ripping up blocking net A[3]
+Nets remaining: 404
+Best route of _646_ collides with net: B[4] 
+Ripping up blocking net B[4]
+Nets remaining: 404
+Best route of _625_ collides with nets: _464_ B[6] 
+Ripping up blocking net _464_
+Ripping up blocking net B[6]
+Nets remaining: 405
+Best route of _603_ collides with net: B[3] 
+Ripping up blocking net B[3]
+Nets remaining: 405
+Nets remaining: 404
+Best route of _821_[2] collides with nets: _386_ _803_ _800_ 
+Ripping up blocking net _386_
+Ripping up blocking net _803_
+Ripping up blocking net _800_
+Nets remaining: 406
+Nets remaining: 405
+Best route of _805_ collides with nets: _821_[2] _799_ 
+Ripping up blocking net _821_[2]
+Ripping up blocking net _799_
+Nets remaining: 406
+Best route of _795_ collides with net: _514_ 
+Ripping up blocking net _514_
+Nets remaining: 406
+Best route of _793_ collides with nets: _434_ clk _511_ 
+Ripping up blocking net _434_
+Ripping up blocking net clk
+Ripping up blocking net _511_
+Nets remaining: 408
+Best route of _792_ collides with nets: _450_ _474_ 
+Ripping up blocking net _450_
+Ripping up blocking net _474_
+Nets remaining: 409
+Best route of _790_ collides with nets: _618_ _470_ _233_ 
+Ripping up blocking net _618_
+Ripping up blocking net _470_
+Ripping up blocking net _233_
+Nets remaining: 411
+Best route of _789_ collides with net: _788_ 
+Ripping up blocking net _788_
+Nets remaining: 411
+Best route of _781_ collides with net: _779_ 
+Ripping up blocking net _779_
+Nets remaining: 411
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 1372
+Failed net routes: 410
+----------------------------------------------
+*** Running stage2 routing with options mask 90, effort 20
+Nets remaining: 410
+Nets remaining: 409
+Nets remaining: 408
+Nets remaining: 407
+Nets remaining: 406
+Best route of _771_ collides with net: _705_ 
+Ripping up blocking net _705_
+Nets remaining: 406
+Best route of _767_ collides with nets: _766_ A[2] 
+Ripping up blocking net _766_
+Ripping up blocking net A[2]
+Nets remaining: 407
+Nets remaining: 406
+Best route of _762_ collides with net: _104_ 
+Ripping up blocking net _104_
+Nets remaining: 406
+Best route of _759_ collides with net: _760_ 
+Ripping up blocking net _760_
+Nets remaining: 406
+Best route of _756_ collides with nets: _755_ _457_ 
+Ripping up blocking net _755_
+Ripping up blocking net _457_
+Nets remaining: 407
+Nets remaining: 406
+Nets remaining: 405
+Nets remaining: 404
+Nets remaining: 403
+Best route of _743_ collides with nets: _415_ _746_ _731_ 
+Ripping up blocking net _415_
+Ripping up blocking net _746_
+Ripping up blocking net _731_
+Nets remaining: 405
+Best route of _742_ collides with net: _666_ 
+Ripping up blocking net _666_
+Nets remaining: 405
+Nets remaining: 404
+Nets remaining: 403
+Nets remaining: 402
+Best route of _734_ collides with net: _484_ 
+Ripping up blocking net _484_
+Nets remaining: 402
+Nets remaining: 401
+Best route of _728_ collides with nets: B[0] _429_ 
+Ripping up blocking net B[0]
+Ripping up blocking net _429_
+Nets remaining: 402
+Best route of _716_ collides with net: _691_ 
+Ripping up blocking net _691_
+Nets remaining: 402
+Nets remaining: 401
+Nets remaining: 400
+Best route of _695_ collides with net: _637_ 
+Ripping up blocking net _637_
+Nets remaining: 400
+Nets remaining: 399
+Best route of _683_ collides with net: _619_ 
+Ripping up blocking net _619_
+Nets remaining: 399
+Nets remaining: 398
+Best route of _678_ collides with nets: _739_ _79_ 
+Ripping up blocking net _739_
+Ripping up blocking net _79_
+Nets remaining: 399
+Nets remaining: 398
+Nets remaining: 397
+Best route of _674_ collides with nets: _500_ A[6] 
+Ripping up blocking net _500_
+Ripping up blocking net A[6]
+Nets remaining: 398
+Nets remaining: 397
+Best route of _665_ collides with net: _510_ 
+Ripping up blocking net _510_
+Nets remaining: 397
+Nets remaining: 396
+Best route of _630_ collides with net: _590_ 
+Ripping up blocking net _590_
+Nets remaining: 396
+Best route of _628_ collides with nets: _555_ _473_ _465_ 
+Ripping up blocking net _555_
+Ripping up blocking net _473_
+Ripping up blocking net _465_
+Nets remaining: 398
+Nets remaining: 397
+Best route of _624_ collides with net: _522_ 
+Ripping up blocking net _522_
+Nets remaining: 397
+Best route of _621_ collides with net: _683_ 
+Ripping up blocking net _683_
+Nets remaining: 397
+Nets remaining: 396
+Nets remaining: 395
+Best route of _604_ collides with net: B[1_bF$buf2] 
+Ripping up blocking net B[1_bF$buf2]
+Nets remaining: 395
+Best route of _594_ collides with net: _432_ 
+Ripping up blocking net _432_
+Nets remaining: 395
+Nets remaining: 394
+Best route of _588_ collides with net: _0_[3] 
+Ripping up blocking net _0_[3]
+Nets remaining: 394
+Nets remaining: 393
+Nets remaining: 392
+Nets remaining: 391
+Nets remaining: 390
+Nets remaining: 389
+Nets remaining: 388
+Best route of _576_ collides with net: _540_ 
+Ripping up blocking net _540_
+Nets remaining: 388
+Best route of _568_ collides with net: _567_ 
+Ripping up blocking net _567_
+Nets remaining: 388
+Nets remaining: 387
+Nets remaining: 386
+Nets remaining: 385
+Best route of _0_[2] collides with net: _414_ 
+Ripping up blocking net _414_
+Nets remaining: 385
+Best route of _553_ collides with nets: _463_ _0_[2] 
+Ripping up blocking net _463_
+Ripping up blocking net _0_[2]
+Nets remaining: 386
+Nets remaining: 385
+Best route of _551_ collides with net: _426_ 
+Ripping up blocking net _426_
+Nets remaining: 385
+Best route of _549_ collides with nets: A[5] _451_ 
+Ripping up blocking net A[5]
+Ripping up blocking net _451_
+Nets remaining: 386
+Nets remaining: 385
+Nets remaining: 384
+Nets remaining: 383
+Nets remaining: 382
+Nets remaining: 381
+Nets remaining: 380
+Best route of _527_ collides with nets: B[7] _529_ 
+Ripping up blocking net B[7]
+Ripping up blocking net _529_
+Nets remaining: 381
+Nets remaining: 380
+Nets remaining: 379
+Nets remaining: 378
+Best route of _519_ collides with nets: _441_ _730_ 
+Ripping up blocking net _441_
+Ripping up blocking net _730_
+Nets remaining: 379
+Nets remaining: 378
+Best route of _508_ collides with net: A[0] 
+Ripping up blocking net A[0]
+Nets remaining: 378
+Best route of _504_ collides with nets: A[1] _508_ 
+Ripping up blocking net A[1]
+Ripping up blocking net _508_
+Nets remaining: 379
+Nets remaining: 378
+Nets remaining: 377
+Nets remaining: 376
+Best route of _493_ collides with nets: _667_ _527_ 
+Ripping up blocking net _667_
+Ripping up blocking net _527_
+Nets remaining: 377
+Best route of _489_ collides with nets: _821_[0] _747_ 
+Ripping up blocking net _821_[0]
+Ripping up blocking net _747_
+Nets remaining: 378
+Best route of _488_ collides with nets: _543_ _487_ 
+Ripping up blocking net _543_
+Ripping up blocking net _487_
+Nets remaining: 379
+Nets remaining: 378
+Best route of _480_ collides with nets: _551_ _577_ _790_ 
+Ripping up blocking net _551_
+Ripping up blocking net _577_
+Ripping up blocking net _790_
+Nets remaining: 380
+Nets remaining: 379
+Nets remaining: 378
+Best route of _466_ collides with net: _222_ 
+Ripping up blocking net _222_
+Nets remaining: 378
+Nets remaining: 377
+Best route of _449_ collides with nets: _445_ _795_ _792_ 
+Ripping up blocking net _445_
+Ripping up blocking net _795_
+Ripping up blocking net _792_
+Nets remaining: 379
+Nets remaining: 378
+Nets remaining: 377
+Best route of _433_ collides with nets: _428_ _526_ 
+Ripping up blocking net _428_
+Ripping up blocking net _526_
+Nets remaining: 378
+Nets remaining: 377
+Nets remaining: 376
+Nets remaining: 375
+Best route of _406_ collides with net: _750_ 
+Ripping up blocking net _750_
+Nets remaining: 375
+Best route of _385_ collides with net: _371_ 
+Ripping up blocking net _371_
+Nets remaining: 375
+Best route of _384_ collides with net: _349_ 
+Ripping up blocking net _349_
+Nets remaining: 375
+Best route of _383_ collides with nets: _276_ _342_ 
+Ripping up blocking net _276_
+Ripping up blocking net _342_
+Nets remaining: 376
+Nets remaining: 375
+Best route of _380_ collides with net: _319_ 
+Ripping up blocking net _319_
+Nets remaining: 375
+Nets remaining: 374
+Best route of _377_ collides with net: _378_ 
+Ripping up blocking net _378_
+Nets remaining: 374
+Nets remaining: 373
+Nets remaining: 372
+Nets remaining: 371
+Best route of _360_ collides with net: _351_ 
+Ripping up blocking net _351_
+Nets remaining: 371
+Nets remaining: 370
+Nets remaining: 369
+Nets remaining: 368
+Nets remaining: 367
+Nets remaining: 366
+Nets remaining: 365
+Best route of _328_ collides with nets: _409_ _300_ 
+Ripping up blocking net _409_
+Ripping up blocking net _300_
+Nets remaining: 366
+Nets remaining: 365
+Nets remaining: 364
+Nets remaining: 363
+Best route of _314_ collides with nets: _238_ _223_ 
+Ripping up blocking net _238_
+Ripping up blocking net _223_
+Nets remaining: 364
+Best route of _309_ collides with net: _312_ 
+Ripping up blocking net _312_
+Nets remaining: 364
+Nets remaining: 363
+Best route of _306_ collides with nets: _332_ _320_ 
+Ripping up blocking net _332_
+Ripping up blocking net _320_
+Nets remaining: 364
+Nets remaining: 363
+Nets remaining: 362
+Nets remaining: 361
+Best route of _297_ collides with net: _298_ 
+Ripping up blocking net _298_
+Nets remaining: 361
+Nets remaining: 360
+Nets remaining: 359
+Nets remaining: 358
+Best route of _275_ collides with nets: _309_ _265_ _375_ 
+Ripping up blocking net _309_
+Ripping up blocking net _265_
+Ripping up blocking net _375_
+Nets remaining: 360
+Best route of _269_ collides with net: _264_ 
+Ripping up blocking net _264_
+Nets remaining: 360
+Nets remaining: 359
+Best route of _241_ collides with net: _185_ 
+Ripping up blocking net _185_
+Nets remaining: 359
+Nets remaining: 358
+Best route of _218_ collides with nets: _190_ _217_ 
+Ripping up blocking net _190_
+Ripping up blocking net _217_
+Nets remaining: 359
+Nets remaining: 358
+Nets remaining: 357
+Best route of _204_ collides with net: _205_ 
+Ripping up blocking net _205_
+Nets remaining: 357
+Best route of _198_ collides with net: _114_ 
+Ripping up blocking net _114_
+Nets remaining: 357
+Nets remaining: 356
+Best route of _191_ collides with net: _210_ 
+Ripping up blocking net _210_
+Nets remaining: 356
+Nets remaining: 355
+Nets remaining: 354
+Nets remaining: 353
+Nets remaining: 352
+Best route of _172_ collides with nets: _193_ _165_ 
+Ripping up blocking net _193_
+Ripping up blocking net _165_
+Nets remaining: 353
+Nets remaining: 352
+Nets remaining: 351
+Nets remaining: 350
+Best route of _154_ collides with net: _157_ 
+Ripping up blocking net _157_
+Nets remaining: 350
+Best route of _134_ collides with nets: _111_ _376_ _131_ 
+Ripping up blocking net _111_
+Ripping up blocking net _376_
+Ripping up blocking net _131_
+Nets remaining: 352
+Nets remaining: 351
+Nets remaining: 350
+Nets remaining: 349
+Best route of _113_ collides with nets: _195_ _92_ 
+Ripping up blocking net _195_
+Ripping up blocking net _92_
+Nets remaining: 350
+Nets remaining: 349
+Nets remaining: 348
+Nets remaining: 347
+Best route of _53_ collides with net: _56_ 
+Ripping up blocking net _56_
+Nets remaining: 347
+Nets remaining: 346
+Nets remaining: 345
+Nets remaining: 344
+Best route of _33_ collides with nets: _74_ _43_ _48_ 
+Ripping up blocking net _74_
+Ripping up blocking net _43_
+Ripping up blocking net _48_
+Nets remaining: 346
+Nets remaining: 345
+Nets remaining: 344
+Best route of _23_ collides with net: B[1_bF$buf3] 
+Ripping up blocking net B[1_bF$buf3]
+Nets remaining: 344
+Best route of _22_ collides with net: _820_ 
+Ripping up blocking net _820_
+Nets remaining: 344
+Nets remaining: 343
+Nets remaining: 342
+Nets remaining: 341
+Nets remaining: 340
+Best route of _8_ collides with net: _9_ 
+Ripping up blocking net _9_
+Nets remaining: 340
+Nets remaining: 339
+Nets remaining: 338
+Nets remaining: 337
+Nets remaining: 336
+Nets remaining: 335
+Nets remaining: 334
+Best route of _582_ collides with net: _646_ 
+Ripping up blocking net _646_
+Nets remaining: 334
+Nets remaining: 333
+Nets remaining: 332
+Best route of _760_ collides with net: _727_ 
+Ripping up blocking net _727_
+Nets remaining: 332
+Nets remaining: 331
+Nets remaining: 330
+Nets remaining: 329
+Nets remaining: 328
+Nets remaining: 327
+Best route of _708_ collides with net: _762_ 
+Ripping up blocking net _762_
+Nets remaining: 327
+Nets remaining: 326
+Nets remaining: 325
+Nets remaining: 324
+Nets remaining: 323
+Best route of _667_ collides with net: _493_ 
+Ripping up blocking net _493_
+Nets remaining: 323
+Nets remaining: 322
+Best route of _619_ collides with net: _660_ 
+Ripping up blocking net _660_
+Nets remaining: 322
+Best route of _610_ collides with net: _570_ 
+Ripping up blocking net _570_
+Nets remaining: 322
+Best route of _606_ collides with nets: _767_ _299__bF$buf0 
+Ripping up blocking net _767_
+Ripping up blocking net _299__bF$buf0
+Nets remaining: 323
+Best route of _589_ collides with nets: _588_ select[2] 
+Ripping up blocking net _588_
+Ripping up blocking net select[2]
+Nets remaining: 324
+Nets remaining: 323
+Best route of _554_ collides with nets: _627_ _580_ _622_ 
+Ripping up blocking net _627_
+Ripping up blocking net _580_
+Ripping up blocking net _622_
+Nets remaining: 325
+Nets remaining: 324
+Nets remaining: 323
+Best route of _523_ collides with nets: _552_ A[7] 
+Ripping up blocking net _552_
+Ripping up blocking net A[7]
+Nets remaining: 324
+Nets remaining: 323
+Nets remaining: 322
+Best route of _497_ collides with nets: _533_ _394_ 
+Ripping up blocking net _533_
+Ripping up blocking net _394_
+Nets remaining: 323
+Best route of _491_ collides with net: _467_ 
+Ripping up blocking net _467_
+Nets remaining: 323
+Nets remaining: 322
+Nets remaining: 321
+Nets remaining: 320
+Best route of _436_ collides with net: _437_ 
+Ripping up blocking net _437_
+Nets remaining: 320
+Nets remaining: 319
+Best route of _417_ collides with nets: select[1] _421_ 
+Ripping up blocking net select[1]
+Ripping up blocking net _421_
+Nets remaining: 320
+Nets remaining: 319
+Nets remaining: 318
+Best route of _400_ collides with net: _396_ 
+Ripping up blocking net _396_
+Nets remaining: 318
+Best route of _399_ collides with net: _432_ 
+Ripping up blocking net _432_
+Nets remaining: 318
+Nets remaining: 317
+Nets remaining: 316
+Best route of _363_ collides with net: _366_ 
+Ripping up blocking net _366_
+Nets remaining: 316
+Nets remaining: 315
+Nets remaining: 314
+Best route of _336_ collides with net: _333_ 
+Ripping up blocking net _333_
+Nets remaining: 314
+Nets remaining: 313
+Nets remaining: 312
+Nets remaining: 311
+Nets remaining: 310
+Best route of _294_ collides with net: _700_ 
+Ripping up blocking net _700_
+Nets remaining: 310
+Best route of _289_ collides with nets: _250_ _252_ 
+Ripping up blocking net _250_
+Ripping up blocking net _252_
+Nets remaining: 311
+Best route of _283_ collides with net: _325_ 
+Ripping up blocking net _325_
+Nets remaining: 311
+Nets remaining: 310
+Best route of _280_ collides with net: _179_ 
+Ripping up blocking net _179_
+Nets remaining: 310
+Nets remaining: 309
+Nets remaining: 308
+Nets remaining: 307
+Best route of _260_ collides with net: _343_ 
+Ripping up blocking net _343_
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Best route of _234_ collides with net: _232_ 
+Ripping up blocking net _232_
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Nets remaining: 299
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of _171_ collides with net: _153_ 
+Ripping up blocking net _153_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _167_ collides with net: _134_ 
+Ripping up blocking net _134_
+Nets remaining: 294
+Best route of _166_ collides with net: _167_ 
+Ripping up blocking net _167_
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Best route of _130_ collides with net: _132_ 
+Ripping up blocking net _132_
+Nets remaining: 291
+Nets remaining: 290
+Best route of _68_ collides with nets: _51_ _130_ _49_ 
+Ripping up blocking net _51_
+Ripping up blocking net _130_
+Ripping up blocking net _49_
+Nets remaining: 292
+Best route of _114_ collides with net: _149_ 
+Ripping up blocking net _149_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Best route of _84_ collides with net: _77_ 
+Ripping up blocking net _77_
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Best route of _10_ collides with net: _11_ 
+Ripping up blocking net _11_
+Nets remaining: 286
+Nets remaining: 285
+Nets remaining: 284
+Nets remaining: 283
+Nets remaining: 282
+Nets remaining: 281
+Nets remaining: 280
+Best route of _560_ collides with net: _296_ 
+Ripping up blocking net _296_
+Nets remaining: 280
+Nets remaining: 279
+Best route of _50_ collides with nets: _27_ _8_ 
+Ripping up blocking net _27_
+Ripping up blocking net _8_
+Nets remaining: 280
+Nets remaining: 279
+Best route of _581_ collides with net: _621_ 
+Ripping up blocking net _621_
+Nets remaining: 279
+Best route of _495_ collides with net: _397_ 
+Ripping up blocking net _397_
+Nets remaining: 279
+Best route of _477_ collides with nets: _525_ _433_ _478_ 
+Ripping up blocking net _525_
+Ripping up blocking net _433_
+Ripping up blocking net _478_
+Nets remaining: 281
+Best route of _465_ collides with net: _628_ 
+Ripping up blocking net _628_
+Nets remaining: 281
+Nets remaining: 280
+Nets remaining: 279
+Nets remaining: 278
+Nets remaining: 277
+Best route of _435_ collides with net: _438_ 
+Ripping up blocking net _438_
+Nets remaining: 277
+Nets remaining: 276
+Best route of _425_ collides with net: _458_ 
+Ripping up blocking net _458_
+Nets remaining: 276
+Nets remaining: 275
+Best route of _407_ collides with nets: _455_ _435_ 
+Ripping up blocking net _455_
+Ripping up blocking net _435_
+Nets remaining: 276
+Best route of _401_ collides with net: _488_ 
+Ripping up blocking net _488_
+Nets remaining: 276
+Best route of _396_ collides with net: _557_ 
+Ripping up blocking net _557_
+Nets remaining: 276
+Nets remaining: 275
+Nets remaining: 274
+Nets remaining: 273
+Best route of _274_ collides with net: _346_ 
+Ripping up blocking net _346_
+Nets remaining: 273
+Best route of _267_ collides with net: _274_ 
+Ripping up blocking net _274_
+Nets remaining: 273
+Best route of _265_ collides with nets: _237_ _231_ _239_ 
+Ripping up blocking net _237_
+Ripping up blocking net _231_
+Ripping up blocking net _239_
+Nets remaining: 275
+Nets remaining: 274
+Best route of _256_ collides with nets: _279_ _257_ 
+Ripping up blocking net _279_
+Ripping up blocking net _257_
+Nets remaining: 275
+Best route of _245_ collides with nets: _220_ _249_ 
+Ripping up blocking net _220_
+Ripping up blocking net _249_
+Nets remaining: 276
+Nets remaining: 275
+Best route of _151_ collides with nets: _657_ _166_ 
+Ripping up blocking net _657_
+Ripping up blocking net _166_
+Nets remaining: 276
+Best route of _144_ collides with nets: _146_ _154_ 
+Ripping up blocking net _146_
+Ripping up blocking net _154_
+Nets remaining: 277
+Best route of _74_ collides with nets: _50_ B[2_bF$buf3] 
+Ripping up blocking net _50_
+Ripping up blocking net B[2_bF$buf3]
+Nets remaining: 278
+Nets remaining: 277
+Nets remaining: 276
+Nets remaining: 275
+Best route of _820_ collides with nets: _22_ _25_ 
+Ripping up blocking net _22_
+Ripping up blocking net _25_
+Nets remaining: 276
+Best route of _818_ collides with net: _809_ 
+Ripping up blocking net _809_
+Nets remaining: 276
+Nets remaining: 275
+Best route of _722_ collides with net: _326_ 
+Ripping up blocking net _326_
+Nets remaining: 275
+Nets remaining: 274
+Nets remaining: 273
+Best route of _277_ collides with net: _426_ 
+Ripping up blocking net _426_
+Nets remaining: 273
+Nets remaining: 272
+Best route of _455_ collides with net: _549_ 
+Ripping up blocking net _549_
+Nets remaining: 272
+Nets remaining: 271
+Nets remaining: 270
+Best route of _397_ collides with nets: _733_ _513_ 
+Ripping up blocking net _733_
+Ripping up blocking net _513_
+Nets remaining: 271
+Best route of _276_ collides with nets: _174_ _317_ 
+Ripping up blocking net _174_
+Ripping up blocking net _317_
+Nets remaining: 272
+Best route of _271_ collides with nets: _275_ _240_ 
+Ripping up blocking net _275_
+Ripping up blocking net _240_
+Nets remaining: 273
+Nets remaining: 272
+Best route of _252_ collides with net: _289_ 
+Ripping up blocking net _289_
+Nets remaining: 272
+Nets remaining: 271
+Nets remaining: 270
+Nets remaining: 269
+Nets remaining: 268
+Best route of _486__bF$buf0 collides with net: _247_ 
+Ripping up blocking net _247_
+Nets remaining: 268
+Best route of _486__bF$buf1 collides with net: _151_ 
+Ripping up blocking net _151_
+Nets remaining: 268
+Best route of _486__bF$buf2 collides with net: _107_ 
+Ripping up blocking net _107_
+Nets remaining: 268
+Best route of _486_ collides with nets: B[2_bF$buf1] _707_ 
+Ripping up blocking net B[2_bF$buf1]
+Ripping up blocking net _707_
+Nets remaining: 269
+Nets remaining: 268
+Best route of _387_ collides with net: _164_ 
+Ripping up blocking net _164_
+Nets remaining: 268
+Best route of _299_ collides with nets: _530_ _754_ 
+Ripping up blocking net _530_
+Ripping up blocking net _754_
+Nets remaining: 269
+Best route of B[1_bF$buf0] collides with nets: _787_ _182_ _299_ _0_[5] _776_ _396_ _7_ 
+Ripping up blocking net _787_
+Ripping up blocking net _182_
+Ripping up blocking net _299_
+Ripping up blocking net _0_[5]
+Ripping up blocking net _776_
+Ripping up blocking net _396_
+Ripping up blocking net _7_
+Nets remaining: 275
+Best route of B[1_bF$buf1] collides with nets: _321_ _112_ _777_ 
+Ripping up blocking net _321_
+Ripping up blocking net _112_
+Ripping up blocking net _777_
+Nets remaining: 277
+Best route of _4_ collides with net: _820_ 
+Ripping up blocking net _820_
+Nets remaining: 277
+Best route of _811_ collides with nets: _71_ _70_ _119_ 
+Ripping up blocking net _71_
+Ripping up blocking net _70_
+Ripping up blocking net _119_
+Nets remaining: 279
+Best route of _514_ collides with nets: _510_ _794_ _749_ _449_ _734_ _455_ _682_ _424_ _581_ 
+Ripping up blocking net _510_
+Ripping up blocking net _794_
+Ripping up blocking net _749_
+Ripping up blocking net _449_
+Ripping up blocking net _734_
+Ripping up blocking net _455_
+Ripping up blocking net _682_
+Ripping up blocking net _424_
+Ripping up blocking net _581_
+Nets remaining: 287
+Best route of _494_ collides with net: _514_ 
+Ripping up blocking net _514_
+Nets remaining: 287
+Best route of _288_ collides with net: _553_ 
+Ripping up blocking net _553_
+Nets remaining: 287
+Nets remaining: 286
+Nets remaining: 285
+Best route of _438_ collides with nets: _401_ _756_ _542_ 
+Ripping up blocking net _401_
+Ripping up blocking net _756_
+Ripping up blocking net _542_
+Nets remaining: 287
+Nets remaining: 286
+Nets remaining: 285
+Best route of _300_ collides with nets: _253_ _267_ _327_ 
+Ripping up blocking net _253_
+Ripping up blocking net _267_
+Ripping up blocking net _327_
+Nets remaining: 287
+Best route of _398_ collides with net: _338_ 
+Ripping up blocking net _338_
+Nets remaining: 287
+Best route of B[2_bF$buf0] collides with nets: _283_ _13_ _29_ _819_ _241_ 
+Ripping up blocking net _283_
+Ripping up blocking net _13_
+Ripping up blocking net _29_
+Ripping up blocking net _819_
+Ripping up blocking net _241_
+Nets remaining: 291
+Best route of B[2_bF$buf1] collides with nets: _294_ _387__bF$buf0 _252_ _4_ B[2_bF$buf0] _815_ 
+Ripping up blocking net _294_
+Ripping up blocking net _387__bF$buf0
+Ripping up blocking net _252_
+Ripping up blocking net _4_
+Ripping up blocking net B[2_bF$buf0]
+Ripping up blocking net _815_
+Nets remaining: 296
+Best route of B[2_bF$buf2] collides with nets: B[2_bF$buf1] _807_ _397_ 
+Ripping up blocking net B[2_bF$buf1]
+Ripping up blocking net _807_
+Ripping up blocking net _397_
+Nets remaining: 298
+Best route of _486__bF$buf3 collides with net: _73_ 
+Ripping up blocking net _73_
+Nets remaining: 298
+Best route of _387__bF$buf2 collides with net: B[1_bF$buf1] 
+Ripping up blocking net B[1_bF$buf1]
+Nets remaining: 298
+Best route of _387__bF$buf3 collides with nets: _497_ B[1_bF$buf0] 
+Ripping up blocking net _497_
+Ripping up blocking net B[1_bF$buf0]
+Nets remaining: 299
+
+No progress at level of effort 20; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 2081
+Failed net routes: 298
+----------------------------------------------
+*** Running stage2 routing with options mask 20, effort 10
+Nets remaining: 298
+Nets remaining: 297
+Best route of _299__bF$buf3 collides with nets: _303_ _387_ 
+Ripping up blocking net _303_
+Ripping up blocking net _387_
+Nets remaining: 298
+Best route of B[1_bF$buf2] collides with nets: _299__bF$buf1 B[2_bF$buf2] _299__bF$buf2 
+Ripping up blocking net _299__bF$buf1
+Ripping up blocking net B[2_bF$buf2]
+Ripping up blocking net _299__bF$buf2
+Nets remaining: 300
+Nets remaining: 299
+Best route of _389_ collides with nets: _411_ _671_ _299__bF$buf3 _486_ 
+Ripping up blocking net _411_
+Ripping up blocking net _671_
+Ripping up blocking net _299__bF$buf3
+Ripping up blocking net _486_
+Nets remaining: 302
+Best route of _319_ collides with nets: _345_ _258_ 
+Ripping up blocking net _345_
+Ripping up blocking net _258_
+Nets remaining: 303
+Nets remaining: 302
+Best route of B[2_bF$buf3] collides with nets: _144_ _389_ 
+Ripping up blocking net _144_
+Ripping up blocking net _389_
+Nets remaining: 303
+Best route of _500_ collides with nets: _594_ _583_ 
+Ripping up blocking net _594_
+Ripping up blocking net _583_
+Nets remaining: 304
+Best route of A[5] collides with nets: _277_ _395_ _711_ _507_ 
+Ripping up blocking net _277_
+Ripping up blocking net _395_
+Ripping up blocking net _711_
+Ripping up blocking net _507_
+Nets remaining: 307
+Best route of _464_ collides with net: _385_ 
+Ripping up blocking net _385_
+Nets remaining: 307
+Best route of _247_ collides with net: _310_ 
+Ripping up blocking net _310_
+Nets remaining: 307
+Best route of _21_ collides with nets: _37_ _519_ _407_ _518_ _398_ 
+Ripping up blocking net _37_
+Ripping up blocking net _519_
+Ripping up blocking net _407_
+Ripping up blocking net _518_
+Ripping up blocking net _398_
+Nets remaining: 311
+Nets remaining: 310
+Nets remaining: 309
+Best route of _104_ collides with nets: _547_ _399_ _423_ _38_ _161_ _808_ _21_ 
+Ripping up blocking net _547_
+Ripping up blocking net _399_
+Ripping up blocking net _423_
+Ripping up blocking net _38_
+Ripping up blocking net _161_
+Ripping up blocking net _808_
+Ripping up blocking net _21_
+Nets remaining: 315
+Nets remaining: 314
+Nets remaining: 313
+Nets remaining: 312
+Best route of _45_ collides with nets: _104_ _57_ 
+Ripping up blocking net _104_
+Ripping up blocking net _57_
+Nets remaining: 313
+Best route of _115_ collides with nets: _101_ _94_ 
+Ripping up blocking net _101_
+Ripping up blocking net _94_
+Nets remaining: 314
+Best route of _127_ collides with nets: _126_ _122_ 
+Ripping up blocking net _126_
+Ripping up blocking net _122_
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 2203
+Failed net routes: 315
+----------------------------------------------
+*** Running stage2 routing with options mask 100, effort 20
+Nets remaining: 315
+Best route of _668_ collides with nets: _328_ _528_ _365_ 
+Ripping up blocking net _328_
+Ripping up blocking net _528_
+Ripping up blocking net _365_
+Nets remaining: 317
+Best route of _431_ collides with nets: A[5] _500_ _772_ _67_ _65_ _191_ _280_ 
+Ripping up blocking net A[5]
+Ripping up blocking net _500_
+Ripping up blocking net _772_
+Ripping up blocking net _67_
+Ripping up blocking net _65_
+Ripping up blocking net _191_
+Ripping up blocking net _280_
+Nets remaining: 323
+Best route of _95_ collides with nets: _169_ _668_ 
+Ripping up blocking net _169_
+Ripping up blocking net _668_
+Nets remaining: 324
+Best route of _59_ collides with net: _30_ 
+Ripping up blocking net _30_
+Nets remaining: 324
+Nets remaining: 323
+Nets remaining: 322
+Best route of B[5] collides with nets: _358_ _262_ 
+Ripping up blocking net _358_
+Ripping up blocking net _262_
+Nets remaining: 323
+Best route of A[4] collides with nets: _486__bF$buf2 _36_ _84_ _62_ 
+Ripping up blocking net _486__bF$buf2
+Ripping up blocking net _36_
+Ripping up blocking net _84_
+Ripping up blocking net _62_
+Nets remaining: 326
+Best route of _32_ collides with nets: _17_ _10_ _45_ _811_ 
+Ripping up blocking net _17_
+Ripping up blocking net _10_
+Ripping up blocking net _45_
+Ripping up blocking net _811_
+Nets remaining: 329
+Best route of _15_ collides with net: _16_ 
+Ripping up blocking net _16_
+Nets remaining: 329
+Best route of A[3] collides with nets: _300_ _486__bF$buf1 _85_ 
+Ripping up blocking net _300_
+Ripping up blocking net _486__bF$buf1
+Ripping up blocking net _85_
+Nets remaining: 331
+Best route of B[4] collides with nets: _273_ _363_ _678_ _224_ _696_ A[4] 
+Ripping up blocking net _273_
+Ripping up blocking net _363_
+Ripping up blocking net _678_
+Ripping up blocking net _224_
+Ripping up blocking net _696_
+Ripping up blocking net A[4]
+Nets remaining: 336
+Nets remaining: 335
+Best route of B[6] collides with nets: _271_ _293_ 
+Ripping up blocking net _271_
+Ripping up blocking net _293_
+Nets remaining: 336
+Best route of B[3] collides with nets: B[5] _689_ _387__bF$buf2 _354_ A[3] 
+Ripping up blocking net B[5]
+Ripping up blocking net _689_
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _354_
+Ripping up blocking net A[3]
+Nets remaining: 340
+Nets remaining: 339
+Nets remaining: 338
+Best route of _800_ collides with nets: _386_ _803_ 
+Ripping up blocking net _386_
+Ripping up blocking net _803_
+Nets remaining: 339
+Nets remaining: 338
+Best route of _799_ collides with net: _805_ 
+Ripping up blocking net _805_
+Nets remaining: 338
+Best route of _514_ collides with nets: B[6] _478_ _405_ 
+Ripping up blocking net B[6]
+Ripping up blocking net _478_
+Ripping up blocking net _405_
+Nets remaining: 340
+Best route of _434_ collides with net: _743_ 
+Ripping up blocking net _743_
+Nets remaining: 340
+Nets remaining: 339
+Best route of _511_ collides with nets: _438_ _494_ 
+Ripping up blocking net _438_
+Ripping up blocking net _494_
+Nets remaining: 340
+Nets remaining: 339
+Nets remaining: 338
+Best route of _618_ collides with net: _619_ 
+Ripping up blocking net _619_
+Nets remaining: 338
+Best route of _470_ collides with nets: _288_ _523_ _462_ _589_ 
+Ripping up blocking net _288_
+Ripping up blocking net _523_
+Ripping up blocking net _462_
+Ripping up blocking net _589_
+Nets remaining: 341
+Nets remaining: 340
+Nets remaining: 339
+Nets remaining: 338
+Nets remaining: 337
+Nets remaining: 336
+Best route of A[2] collides with net: _546_ 
+Ripping up blocking net _546_
+Nets remaining: 336
+Best route of _104_ collides with net: A[2] 
+Ripping up blocking net A[2]
+Nets remaining: 336
+Nets remaining: 335
+Nets remaining: 334
+Best route of _457_ collides with nets: _469_ _755_ 
+Ripping up blocking net _469_
+Ripping up blocking net _755_
+Nets remaining: 335
+Nets remaining: 334
+Best route of _746_ collides with net: _390_ 
+Ripping up blocking net _390_
+Nets remaining: 334
+Best route of _731_ collides with net: clk 
+Ripping up blocking net clk
+Nets remaining: 334
+
+No progress at level of effort 20; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 2483
+Failed net routes: 333
+----------------------------------------------
+*** Running stage2 routing with options mask 30, effort 10
+Nets remaining: 333
+Best route of _484_ collides with nets: _514_ _585_ _247_ _459_ _460_ 
+Ripping up blocking net _514_
+Ripping up blocking net _585_
+Ripping up blocking net _247_
+Ripping up blocking net _459_
+Ripping up blocking net _460_
+Nets remaining: 337
+Best route of B[0] collides with net: _40_ 
+Ripping up blocking net _40_
+Nets remaining: 337
+Best route of _429_ collides with net: A[0] 
+Ripping up blocking net A[0]
+Nets remaining: 337
+Nets remaining: 336
+Nets remaining: 335
+Nets remaining: 334
+Nets remaining: 333
+Best route of _79_ collides with net: _387__bF$buf1 
+Ripping up blocking net _387__bF$buf1
+Nets remaining: 333
+Best route of _500_ collides with nets: _79_ _737_ _466_ _752_ 
+Ripping up blocking net _79_
+Ripping up blocking net _737_
+Ripping up blocking net _466_
+Ripping up blocking net _752_
+Nets remaining: 336
+Best route of A[6] collides with nets: _429_ _425_ _233_ 
+Ripping up blocking net _429_
+Ripping up blocking net _425_
+Ripping up blocking net _233_
+Nets remaining: 338
+Best route of _510_ collides with nets: _500_ _0_[4] 
+Ripping up blocking net _500_
+Ripping up blocking net _0_[4]
+Nets remaining: 339
+Nets remaining: 338
+Best route of _555_ collides with net: _511_ 
+Ripping up blocking net _511_
+Nets remaining: 338
+Nets remaining: 337
+Nets remaining: 336
+Nets remaining: 335
+Nets remaining: 334
+Nets remaining: 333
+Best route of _432_ collides with net: _430_ 
+Ripping up blocking net _430_
+Nets remaining: 333
+Nets remaining: 332
+Nets remaining: 331
+Nets remaining: 330
+Best route of _414_ collides with nets: _434_ _415_ A[6] 
+Ripping up blocking net _434_
+Ripping up blocking net _415_
+Ripping up blocking net A[6]
+Nets remaining: 332
+Best route of _463_ collides with nets: _800_ _746_ _473_ 
+Ripping up blocking net _800_
+Ripping up blocking net _746_
+Ripping up blocking net _473_
+Nets remaining: 334
+Nets remaining: 333
+Best route of _426_ collides with net: _402_ 
+Ripping up blocking net _402_
+Nets remaining: 333
+Nets remaining: 332
+Nets remaining: 331
+Best route of B[7] collides with nets: _489_ _335_ _336_ _319_ 
+Ripping up blocking net _489_
+Ripping up blocking net _335_
+Ripping up blocking net _336_
+Ripping up blocking net _319_
+Nets remaining: 334
+Nets remaining: 333
+Nets remaining: 332
+Nets remaining: 331
+Best route of A[0] collides with net: B[7] 
+Ripping up blocking net B[7]
+Nets remaining: 331
+Best route of A[1] collides with nets: _431_ B[0] _567_ _400_ B[3] 
+Ripping up blocking net _431_
+Ripping up blocking net B[0]
+Ripping up blocking net _567_
+Ripping up blocking net _400_
+Ripping up blocking net B[3]
+Nets remaining: 335
+Best route of _508_ collides with nets: _683_ _548_ 
+Ripping up blocking net _683_
+Ripping up blocking net _548_
+Nets remaining: 336
+Nets remaining: 335
+Nets remaining: 334
+Nets remaining: 333
+Nets remaining: 332
+Best route of _543_ collides with net: _491_ 
+Ripping up blocking net _491_
+Nets remaining: 332
+Nets remaining: 331
+Nets remaining: 330
+Nets remaining: 329
+Best route of _790_ collides with net: _729_ 
+Ripping up blocking net _729_
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 2655
+Failed net routes: 329
+----------------------------------------------
+*** Running stage2 routing with options mask 40, effort 10
+Nets remaining: 329
+Best route of _222_ collides with nets: _751_ _470_ _417_ 
+Ripping up blocking net _751_
+Ripping up blocking net _470_
+Ripping up blocking net _417_
+Nets remaining: 331
+Best route of _445_ collides with net: _448_ 
+Ripping up blocking net _448_
+Nets remaining: 331
+Nets remaining: 330
+Nets remaining: 329
+Best route of _428_ collides with nets: _451_ _387__bF$buf3 _576_ 
+Ripping up blocking net _451_
+Ripping up blocking net _387__bF$buf3
+Ripping up blocking net _576_
+Nets remaining: 331
+Best route of _526_ collides with net: _510_ 
+Ripping up blocking net _510_
+Nets remaining: 331
+Nets remaining: 330
+Best route of _371_ collides with net: _464_ 
+Ripping up blocking net _464_
+Nets remaining: 330
+Nets remaining: 329
+Nets remaining: 328
+Best route of _342_ collides with net: _276_ 
+Ripping up blocking net _276_
+Nets remaining: 328
+Nets remaining: 327
+Best route of _378_ collides with net: _377_ 
+Ripping up blocking net _377_
+Nets remaining: 327
+Nets remaining: 326
+Nets remaining: 325
+Nets remaining: 324
+Nets remaining: 323
+Best route of _223_ collides with net: _230_ 
+Ripping up blocking net _230_
+Nets remaining: 323
+Best route of _312_ collides with net: _238_ 
+Ripping up blocking net _238_
+Nets remaining: 323
+Best route of _332_ collides with net: _206_ 
+Ripping up blocking net _206_
+Nets remaining: 323
+Best route of _320_ collides with net: _306_ 
+Ripping up blocking net _306_
+Nets remaining: 323
+Best route of _298_ collides with nets: _409_ _486__bF$buf0 
+Ripping up blocking net _409_
+Ripping up blocking net _486__bF$buf0
+Nets remaining: 324
+Best route of _309_ collides with net: _342_ 
+Ripping up blocking net _342_
+Nets remaining: 324
+Nets remaining: 323
+Best route of _375_ collides with nets: _309_ _330_ _351_ 
+Ripping up blocking net _309_
+Ripping up blocking net _330_
+Ripping up blocking net _351_
+Nets remaining: 325
+Best route of _264_ collides with net: _236_ 
+Ripping up blocking net _236_
+Nets remaining: 325
+Nets remaining: 324
+Nets remaining: 323
+Best route of _217_ collides with net: _173_ 
+Ripping up blocking net _173_
+Nets remaining: 323
+Best route of _205_ collides with nets: _246_ _245_ _320_ 
+Ripping up blocking net _246_
+Ripping up blocking net _245_
+Ripping up blocking net _320_
+Nets remaining: 325
+Nets remaining: 324
+Nets remaining: 323
+Best route of _193_ collides with net: _136_ 
+Ripping up blocking net _136_
+Nets remaining: 323
+Nets remaining: 322
+Best route of _157_ collides with nets: _260_ _193_ _186_ 
+Ripping up blocking net _260_
+Ripping up blocking net _193_
+Ripping up blocking net _186_
+Nets remaining: 324
+Nets remaining: 323
+Best route of _376_ collides with nets: _228_ _677_ 
+Ripping up blocking net _228_
+Ripping up blocking net _677_
+Nets remaining: 324
+Best route of _131_ collides with nets: _376_ _59_ 
+Ripping up blocking net _376_
+Ripping up blocking net _59_
+Nets remaining: 325
+Nets remaining: 324
+Best route of _92_ collides with nets: _131_ B[2] _195_ 
+Ripping up blocking net _131_
+Ripping up blocking net B[2]
+Ripping up blocking net _195_
+Nets remaining: 326
+Best route of _56_ collides with nets: _75_ _32_ 
+Ripping up blocking net _75_
+Ripping up blocking net _32_
+Nets remaining: 327
+Nets remaining: 326
+Nets remaining: 325
+Best route of _48_ collides with net: _28_ 
+Ripping up blocking net _28_
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 2825
+Failed net routes: 325
+----------------------------------------------
+*** Running stage2 routing with options mask 50, effort 10
+Nets remaining: 325
+Nets remaining: 324
+Nets remaining: 323
+Best route of _9_ collides with nets: _43_ _74_ 
+Ripping up blocking net _43_
+Ripping up blocking net _74_
+Nets remaining: 324
+Nets remaining: 323
+Nets remaining: 322
+Best route of _762_ collides with net: _708_ 
+Ripping up blocking net _708_
+Nets remaining: 322
+Best route of _493_ collides with nets: _793_ _667_ 
+Ripping up blocking net _793_
+Ripping up blocking net _667_
+Nets remaining: 323
+Nets remaining: 322
+Nets remaining: 321
+Nets remaining: 320
+Best route of _299__bF$buf0 collides with net: A[0] 
+Ripping up blocking net A[0]
+Nets remaining: 320
+Nets remaining: 319
+Nets remaining: 318
+Nets remaining: 317
+Best route of _580_ collides with net: _426_ 
+Ripping up blocking net _426_
+Nets remaining: 317
+Best route of _622_ collides with net: _554_ 
+Ripping up blocking net _554_
+Nets remaining: 317
+Nets remaining: 316
+Best route of A[7] collides with net: _92_ 
+Ripping up blocking net _92_
+Nets remaining: 316
+Nets remaining: 315
+Nets remaining: 314
+Nets remaining: 313
+Best route of _437_ collides with nets: _0_[3] _555_ _465_ _588_ _436_ 
+Ripping up blocking net _0_[3]
+Ripping up blocking net _555_
+Ripping up blocking net _465_
+Ripping up blocking net _588_
+Ripping up blocking net _436_
+Nets remaining: 317
+Nets remaining: 316
+Nets remaining: 315
+Best route of _396_ collides with net: A[1] 
+Ripping up blocking net A[1]
+Nets remaining: 315
+Nets remaining: 314
+Nets remaining: 313
+Best route of _333_ collides with nets: _313_ _265_ A[7] 
+Ripping up blocking net _313_
+Ripping up blocking net _265_
+Ripping up blocking net A[7]
+Nets remaining: 315
+Nets remaining: 314
+Best route of _250_ collides with net: B[4] 
+Ripping up blocking net B[4]
+Nets remaining: 314
+Best route of _252_ collides with net: _319_ 
+Ripping up blocking net _319_
+Nets remaining: 314
+Nets remaining: 313
+Nets remaining: 312
+Best route of _343_ collides with nets: _205_ _174_ 
+Ripping up blocking net _205_
+Ripping up blocking net _174_
+Nets remaining: 313
+Nets remaining: 312
+Best route of _153_ collides with nets: _165_ _114_ 
+Ripping up blocking net _165_
+Ripping up blocking net _114_
+Nets remaining: 313
+Best route of _134_ collides with net: _111_ 
+Ripping up blocking net _111_
+Nets remaining: 313
+Nets remaining: 312
+Nets remaining: 311
+Best route of _51_ collides with nets: _57_ _68_ 
+Ripping up blocking net _57_
+Ripping up blocking net _68_
+Nets remaining: 312
+Nets remaining: 311
+Best route of _49_ collides with nets: _9_ _52_ 
+Ripping up blocking net _9_
+Ripping up blocking net _52_
+Nets remaining: 312
+Nets remaining: 311
+Nets remaining: 310
+Nets remaining: 309
+Nets remaining: 308
+Best route of _27_ collides with nets: _24_ _486__bF$buf3 
+Ripping up blocking net _24_
+Ripping up blocking net _486__bF$buf3
+Nets remaining: 309
+Best route of _8_ collides with net: B[1_bF$buf2] 
+Ripping up blocking net B[1_bF$buf2]
+Nets remaining: 309
+Nets remaining: 308
+Best route of _397_ collides with nets: _621_ A[5] _484_ _508_ 
+Ripping up blocking net _621_
+Ripping up blocking net A[5]
+Ripping up blocking net _484_
+Ripping up blocking net _508_
+Nets remaining: 311
+Best route of _525_ collides with net: _474_ 
+Ripping up blocking net _474_
+Nets remaining: 311
+Nets remaining: 310
+Best route of _478_ collides with nets: _467_ _428_ 
+Ripping up blocking net _467_
+Ripping up blocking net _428_
+Nets remaining: 311
+Best route of _628_ collides with net: _433_ 
+Ripping up blocking net _433_
+Nets remaining: 311
+Best route of _438_ collides with nets: _478_ _543_ 
+Ripping up blocking net _478_
+Ripping up blocking net _543_
+Nets remaining: 312
+Nets remaining: 311
+Best route of _455_ collides with net: _397_ 
+Ripping up blocking net _397_
+Nets remaining: 311
+Best route of _435_ collides with net: _666_ 
+Ripping up blocking net _666_
+Nets remaining: 311
+Best route of _488_ collides with net: _222_ 
+Ripping up blocking net _222_
+Nets remaining: 311
+Best route of _557_ collides with nets: _403_ _750_ _736_ 
+Ripping up blocking net _403_
+Ripping up blocking net _750_
+Ripping up blocking net _736_
+Nets remaining: 313
+Nets remaining: 312
+Best route of _274_ collides with net: _212_ 
+Ripping up blocking net _212_
+Nets remaining: 312
+Nets remaining: 311
+Nets remaining: 310
+Best route of _239_ collides with net: _334_ 
+Ripping up blocking net _334_
+Nets remaining: 310
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 2988
+Failed net routes: 309
+----------------------------------------------
+*** Running stage2 routing with options mask 60, effort 10
+Nets remaining: 309
+Nets remaining: 308
+Nets remaining: 307
+Nets remaining: 306
+Best route of _657_ collides with nets: _152_ _149_ _157_ 
+Ripping up blocking net _152_
+Ripping up blocking net _149_
+Ripping up blocking net _157_
+Nets remaining: 308
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Best route of _50_ collides with nets: _27_ _8_ 
+Ripping up blocking net _27_
+Ripping up blocking net _8_
+Nets remaining: 306
+Nets remaining: 305
+Best route of _22_ collides with net: B[1_bF$buf3] 
+Ripping up blocking net B[1_bF$buf3]
+Nets remaining: 305
+Nets remaining: 304
+Best route of _809_ collides with net: _705_ 
+Ripping up blocking net _705_
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Best route of _733_ collides with net: _300_ 
+Ripping up blocking net _300_
+Nets remaining: 301
+Best route of _513_ collides with net: _456_ 
+Ripping up blocking net _456_
+Nets remaining: 301
+Best route of _174_ collides with nets: _251_ _250_ _219_ 
+Ripping up blocking net _251_
+Ripping up blocking net _250_
+Ripping up blocking net _219_
+Nets remaining: 303
+Best route of _317_ collides with nets: _239_ _274_ 
+Ripping up blocking net _239_
+Ripping up blocking net _274_
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Best route of _289_ collides with nets: _279_ _256_ _332_ 
+Ripping up blocking net _279_
+Ripping up blocking net _256_
+Ripping up blocking net _332_
+Nets remaining: 304
+Nets remaining: 303
+Best route of _151_ collides with net: _657_ 
+Ripping up blocking net _657_
+Nets remaining: 303
+Nets remaining: 302
+Best route of B[2_bF$buf1] collides with nets: _298_ _289_ B[2_bF$buf3] 
+Ripping up blocking net _298_
+Ripping up blocking net _289_
+Ripping up blocking net B[2_bF$buf3]
+Nets remaining: 304
+Best route of _707_ collides with nets: _247_ _533_ 
+Ripping up blocking net _247_
+Ripping up blocking net _533_
+Nets remaining: 305
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 3083
+Failed net routes: 299
+----------------------------------------------
+*** Running stage2 routing with options mask 70, effort 10
+Nets remaining: 299
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Best route of _510_ collides with nets: _455_ _526_ _552_ _435_ 
+Ripping up blocking net _455_
+Ripping up blocking net _526_
+Ripping up blocking net _552_
+Ripping up blocking net _435_
+Nets remaining: 291
+Nets remaining: 290
+Best route of _749_ collides with net: _795_ 
+Ripping up blocking net _795_
+Nets remaining: 290
+Best route of _449_ collides with net: _791_ 
+Ripping up blocking net _791_
+Nets remaining: 290
+Nets remaining: 289
+Best route of _455_ collides with net: _437_ 
+Ripping up blocking net _437_
+Nets remaining: 289
+Best route of _682_ collides with nets: _488_ _476_ 
+Ripping up blocking net _488_
+Ripping up blocking net _476_
+Nets remaining: 290
+Nets remaining: 289
+Best route of _581_ collides with net: _394_ 
+Ripping up blocking net _394_
+Nets remaining: 289
+Best route of _514_ collides with net: _426_ 
+Ripping up blocking net _426_
+Nets remaining: 289
+Best route of _553_ collides with nets: _445_ _493_ _0_[2] 
+Ripping up blocking net _445_
+Ripping up blocking net _493_
+Ripping up blocking net _0_[2]
+Nets remaining: 291
+Best route of _401_ collides with net: _628_ 
+Ripping up blocking net _628_
+Nets remaining: 291
+Best route of _756_ collides with net: _682_ 
+Ripping up blocking net _682_
+Nets remaining: 291
+Best route of _542_ collides with net: _438_ 
+Ripping up blocking net _438_
+Nets remaining: 291
+Best route of _253_ collides with net: _722_ 
+Ripping up blocking net _722_
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _338_ collides with net: _333_ 
+Ripping up blocking net _333_
+Nets remaining: 289
+Best route of _283_ collides with nets: _305_ _325_ _0_[5] 
+Ripping up blocking net _305_
+Ripping up blocking net _325_
+Ripping up blocking net _0_[5]
+Nets remaining: 291
+Best route of _13_ collides with nets: _22_ _12_ 
+Ripping up blocking net _22_
+Ripping up blocking net _12_
+Nets remaining: 292
+Best route of _29_ collides with net: _95_ 
+Ripping up blocking net _95_
+Nets remaining: 292
+Best route of _819_ collides with net: B[2_bF$buf1] 
+Ripping up blocking net B[2_bF$buf1]
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 3151
+Failed net routes: 292
+----------------------------------------------
+*** Running stage2 routing with options mask 80, effort 10
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Best route of _4_ collides with net: _7_ 
+Ripping up blocking net _7_
+Nets remaining: 288
+Best route of B[2_bF$buf0] collides with nets: _343_ _50_ _51_ _14_ 
+Ripping up blocking net _343_
+Ripping up blocking net _50_
+Ripping up blocking net _51_
+Ripping up blocking net _14_
+Nets remaining: 291
+Nets remaining: 290
+Best route of B[2_bF$buf1] collides with nets: _249_ _819_ 
+Ripping up blocking net _249_
+Ripping up blocking net _819_
+Nets remaining: 291
+Best route of _807_ collides with nets: _809_ _5_ _104_ 
+Ripping up blocking net _809_
+Ripping up blocking net _5_
+Ripping up blocking net _104_
+Nets remaining: 293
+Best route of _397_ collides with net: _549_ 
+Ripping up blocking net _549_
+Nets remaining: 293
+Nets remaining: 292
+Best route of B[1_bF$buf1] collides with net: _534_ 
+Ripping up blocking net _534_
+Nets remaining: 292
+Nets remaining: 291
+Best route of B[1_bF$buf0] collides with net: B[2_bF$buf0] 
+Ripping up blocking net B[2_bF$buf0]
+Nets remaining: 291
+Best route of _303_ collides with nets: _700_ _326_ 
+Ripping up blocking net _700_
+Ripping up blocking net _326_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Best route of B[2_bF$buf2] collides with nets: _321_ B[1_bF$buf0] _151_ _387__bF$buf0 
+Ripping up blocking net _321_
+Ripping up blocking net B[1_bF$buf0]
+Ripping up blocking net _151_
+Ripping up blocking net _387__bF$buf0
+Nets remaining: 293
+Best route of _299__bF$buf2 collides with net: _767_ 
+Ripping up blocking net _767_
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 3222
+Failed net routes: 290
+----------------------------------------------
+*** Running stage2 routing with options mask 90, effort 10
+Nets remaining: 290
+Best route of _486_ collides with nets: _807_ _299__bF$buf0 
+Ripping up blocking net _807_
+Ripping up blocking net _299__bF$buf0
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _144_ collides with net: _145_ 
+Ripping up blocking net _145_
+Nets remaining: 289
+Best route of _389_ collides with nets: _553_ _731_ _733_ _396_ 
+Ripping up blocking net _553_
+Ripping up blocking net _731_
+Ripping up blocking net _733_
+Ripping up blocking net _396_
+Nets remaining: 292
+Best route of _594_ collides with net: _580_ 
+Ripping up blocking net _580_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Best route of _395_ collides with net: _277_ 
+Ripping up blocking net _277_
+Nets remaining: 290
+Best route of _711_ collides with net: _253_ 
+Ripping up blocking net _253_
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Nets remaining: 285
+Nets remaining: 284
+Nets remaining: 283
+Nets remaining: 282
+Best route of _547_ collides with net: _581_ 
+Ripping up blocking net _581_
+Nets remaining: 282
+Nets remaining: 281
+Nets remaining: 280
+Nets remaining: 279
+Nets remaining: 278
+Best route of _808_ collides with nets: _4_ _299__bF$buf1 _776_ 
+Ripping up blocking net _4_
+Ripping up blocking net _299__bF$buf1
+Ripping up blocking net _776_
+Nets remaining: 280
+Best route of _21_ collides with nets: _398_ _742_ _510_ 
+Ripping up blocking net _398_
+Ripping up blocking net _742_
+Ripping up blocking net _510_
+Nets remaining: 282
+Best route of _104_ collides with nets: _25_ _161_ _220_ _406_ 
+Ripping up blocking net _25_
+Ripping up blocking net _161_
+Ripping up blocking net _220_
+Ripping up blocking net _406_
+Nets remaining: 285
+Nets remaining: 284
+Best route of _101_ collides with nets: _127_ _57_ _115_ _93_ 
+Ripping up blocking net _127_
+Ripping up blocking net _57_
+Ripping up blocking net _115_
+Ripping up blocking net _93_
+Nets remaining: 287
+Nets remaining: 286
+Nets remaining: 285
+Nets remaining: 284
+Nets remaining: 283
+Best route of _528_ collides with net: _582_ 
+Ripping up blocking net _582_
+Nets remaining: 283
+Nets remaining: 282
+Best route of A[5] collides with nets: _594_ _503_ _401_ _389_ _392_ _671_ 
+Ripping up blocking net _594_
+Ripping up blocking net _503_
+Ripping up blocking net _401_
+Ripping up blocking net _389_
+Ripping up blocking net _392_
+Ripping up blocking net _671_
+Nets remaining: 287
+Best route of _500_ collides with net: _577_ 
+Ripping up blocking net _577_
+Nets remaining: 287
+Best route of _772_ collides with nets: _299__bF$buf2 _744_ 
+Ripping up blocking net _299__bF$buf2
+Ripping up blocking net _744_
+Nets remaining: 288
+Nets remaining: 287
+Best route of _65_ collides with net: _49_ 
+Ripping up blocking net _49_
+Nets remaining: 287
+Nets remaining: 286
+Nets remaining: 285
+Best route of _169_ collides with net: _365_ 
+Ripping up blocking net _365_
+Nets remaining: 285
+Best route of _668_ collides with nets: _113_ _280_ 
+Ripping up blocking net _113_
+Ripping up blocking net _280_
+Nets remaining: 286
+Best route of _30_ collides with nets: _94_ _29_ _668_ 
+Ripping up blocking net _94_
+Ripping up blocking net _29_
+Ripping up blocking net _668_
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 3353
+Failed net routes: 288
+----------------------------------------------
+*** Running stage2 routing with options mask 100, effort 10
+Nets remaining: 288
+Best route of _358_ collides with nets: _344_ _346_ 
+Ripping up blocking net _344_
+Ripping up blocking net _346_
+Nets remaining: 289
+Nets remaining: 288
+Best route of _486__bF$buf2 collides with nets: _778_ _21_ _486_ 
+Ripping up blocking net _778_
+Ripping up blocking net _21_
+Ripping up blocking net _486_
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Nets remaining: 285
+Nets remaining: 284
+Best route of _811_ collides with nets: _71_ _84_ B[2_bF$buf2] 
+Ripping up blocking net _71_
+Ripping up blocking net _84_
+Ripping up blocking net B[2_bF$buf2]
+Nets remaining: 286
+Best route of _16_ collides with nets: _15_ _45_ _13_ 
+Ripping up blocking net _15_
+Ripping up blocking net _45_
+Ripping up blocking net _13_
+Nets remaining: 288
+Best route of _300_ collides with net: _366_ 
+Ripping up blocking net _366_
+Nets remaining: 288
+Nets remaining: 287
+Best route of _85_ collides with net: _104_ 
+Ripping up blocking net _104_
+Nets remaining: 287
+Best route of _273_ collides with nets: _375_ _317_ _231_ _202_ 
+Ripping up blocking net _375_
+Ripping up blocking net _317_
+Ripping up blocking net _231_
+Ripping up blocking net _202_
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Best route of A[4] collides with nets: _734_ _453_ _486__bF$buf2 
+Ripping up blocking net _734_
+Ripping up blocking net _453_
+Ripping up blocking net _486__bF$buf2
+Nets remaining: 288
+Best route of _271_ collides with net: _263_ 
+Ripping up blocking net _263_
+Nets remaining: 288
+
+No progress at level of effort 10; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 3427
+Failed net routes: 287
+----------------------------------------------
+*** Running stage2 routing with options mask none, effort 20
+Nets remaining: 287
+Best route of B[5] collides with net: _148_ 
+Ripping up blocking net _148_
+Nets remaining: 287
+Best route of _689_ collides with net: _711_ 
+Ripping up blocking net _711_
+Nets remaining: 287
+Nets remaining: 286
+Best route of _354_ collides with nets: _185_ _166_ _150_ 
+Ripping up blocking net _185_
+Ripping up blocking net _166_
+Ripping up blocking net _150_
+Nets remaining: 288
+Best route of A[3] collides with nets: _605_ _85_ _354_ 
+Ripping up blocking net _605_
+Ripping up blocking net _85_
+Ripping up blocking net _354_
+Nets remaining: 290
+Best route of _386_ collides with nets: _797_ _223_ 
+Ripping up blocking net _797_
+Ripping up blocking net _223_
+Nets remaining: 291
+Nets remaining: 290
+Best route of _805_ collides with net: _0_[7] 
+Ripping up blocking net _0_[7]
+Nets remaining: 290
+Best route of B[6] collides with net: A[4] 
+Ripping up blocking net A[4]
+Nets remaining: 290
+Best route of _478_ collides with nets: A[3] A[5] 
+Ripping up blocking net A[3]
+Ripping up blocking net A[5]
+Nets remaining: 291
+Nets remaining: 290
+Best route of _743_ collides with net: _414_ 
+Ripping up blocking net _414_
+Nets remaining: 290
+Best route of _438_ collides with net: _405_ 
+Ripping up blocking net _405_
+Nets remaining: 290
+Best route of _494_ collides with net: _537_ 
+Ripping up blocking net _537_
+Nets remaining: 290
+Nets remaining: 289
+Best route of _288_ collides with nets: _387_ B[2_bF$buf1] 
+Ripping up blocking net _387_
+Ripping up blocking net B[2_bF$buf1]
+Nets remaining: 290
+Nets remaining: 289
+Best route of _462_ collides with net: _463_ 
+Ripping up blocking net _463_
+Nets remaining: 289
+Best route of _589_ collides with net: _438_ 
+Ripping up blocking net _438_
+Nets remaining: 289
+Best route of _546_ collides with net: _288_ 
+Ripping up blocking net _288_
+Nets remaining: 289
+Best route of A[2] collides with nets: _557_ _1_ 
+Ripping up blocking net _557_
+Ripping up blocking net _1_
+Nets remaining: 290
+Best route of _469_ collides with nets: _660_ _540_ _494_ 
+Ripping up blocking net _660_
+Ripping up blocking net _540_
+Ripping up blocking net _494_
+Nets remaining: 292
+Best route of _755_ collides with net: _756_ 
+Ripping up blocking net _756_
+Nets remaining: 292
+Nets remaining: 291
+Best route of clk collides with nets: _338_ _799_ 
+Ripping up blocking net _338_
+Ripping up blocking net _799_
+Nets remaining: 292
+Nets remaining: 291
+Best route of _585_ collides with nets: _583_ _455_ 
+Ripping up blocking net _583_
+Ripping up blocking net _455_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Best route of A[0] collides with net: _500_ 
+Ripping up blocking net _500_
+Nets remaining: 288
+Nets remaining: 287
+Best route of _79_ collides with nets: _81_ _65_ _66_ 
+Ripping up blocking net _81_
+Ripping up blocking net _65_
+Ripping up blocking net _66_
+Nets remaining: 289
+Nets remaining: 288
+Best route of _466_ collides with net: _460_ 
+Ripping up blocking net _460_
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Best route of _425_ collides with nets: _477_ _423_ 
+Ripping up blocking net _477_
+Ripping up blocking net _423_
+Nets remaining: 287
+Best route of _233_ collides with net: _790_ 
+Ripping up blocking net _790_
+Nets remaining: 287
+Best route of _500_ collides with nets: _674_ _482_ 
+Ripping up blocking net _674_
+Ripping up blocking net _482_
+Nets remaining: 288
+Best route of _0_[4] collides with nets: clk _422_ 
+Ripping up blocking net clk
+Ripping up blocking net _422_
+
+No progress at level of effort 20; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 3596
+Failed net routes: 289
+----------------------------------------------
+*** Running stage2 routing with options mask none, effort 40
+Nets remaining: 289
+Best route of _511_ collides with nets: _513_ _515_ _478_ _747_ 
+Ripping up blocking net _513_
+Ripping up blocking net _515_
+Ripping up blocking net _478_
+Ripping up blocking net _747_
+Nets remaining: 292
+Best route of _430_ collides with net: _432_ 
+Ripping up blocking net _432_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Best route of A[6] collides with nets: _434_ _560_ _294_ B[6] _387__bF$buf2 _79_ A[0] 
+Ripping up blocking net _434_
+Ripping up blocking net _560_
+Ripping up blocking net _294_
+Ripping up blocking net B[6]
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _79_
+Ripping up blocking net A[0]
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _473_ collides with nets: _792_ _589_ 
+Ripping up blocking net _792_
+Ripping up blocking net _589_
+Nets remaining: 295
+Best route of _402_ collides with net: _500_ 
+Ripping up blocking net _500_
+Nets remaining: 295
+Best route of _489_ collides with net: _794_ 
+Ripping up blocking net _794_
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of B[7] collides with nets: _592_ _254_ B[5] _511_ _362_ _319_ _625_ _225_ _386_ _335_ 
+Ripping up blocking net _592_
+Ripping up blocking net _254_
+Ripping up blocking net B[5]
+Ripping up blocking net _511_
+Ripping up blocking net _362_
+Ripping up blocking net _319_
+Ripping up blocking net _625_
+Ripping up blocking net _225_
+Ripping up blocking net _386_
+Ripping up blocking net _335_
+Nets remaining: 301
+Best route of _431_ collides with net: _811_ 
+Ripping up blocking net _811_
+Nets remaining: 301
+Best route of B[0] collides with nets: _247_ _507_ 
+Ripping up blocking net _247_
+Ripping up blocking net _507_
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Best route of B[3] collides with nets: B[0] _546_ 
+Ripping up blocking net B[0]
+Ripping up blocking net _546_
+Nets remaining: 301
+Best route of _683_ collides with net: _469_ 
+Ripping up blocking net _469_
+Nets remaining: 301
+Best route of _548_ collides with net: B[7] 
+Ripping up blocking net B[7]
+Nets remaining: 301
+Nets remaining: 300
+Best route of _729_ collides with net: _0_[4] 
+Ripping up blocking net _0_[4]
+Nets remaining: 300
+Nets remaining: 299
+Best route of _470_ collides with nets: B[3] _407_ 
+Ripping up blocking net B[3]
+Ripping up blocking net _407_
+Nets remaining: 300
+Nets remaining: 299
+Best route of _448_ collides with net: _749_ 
+Ripping up blocking net _749_
+Nets remaining: 299
+Best route of _451_ collides with nets: _431_ _402_ _480_ _547_ 
+Ripping up blocking net _431_
+Ripping up blocking net _402_
+Ripping up blocking net _480_
+Ripping up blocking net _547_
+Nets remaining: 302
+Best route of _387__bF$buf3 collides with nets: _683_ _706_ _299_ 
+Ripping up blocking net _683_
+Ripping up blocking net _706_
+Ripping up blocking net _299_
+Nets remaining: 304
+Nets remaining: 303
+Best route of _510_ collides with nets: _470_ _523_ 
+Ripping up blocking net _470_
+Ripping up blocking net _523_
+Nets remaining: 304
+Best route of _464_ collides with net: _800_ 
+Ripping up blocking net _800_
+Nets remaining: 304
+Best route of _276_ collides with net: _464_ 
+Ripping up blocking net _464_
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Best route of _306_ collides with net: _252_ 
+Ripping up blocking net _252_
+Nets remaining: 300
+Best route of _409_ collides with nets: _345_ _270_ _377_ 
+Ripping up blocking net _345_
+Ripping up blocking net _270_
+Ripping up blocking net _377_
+Nets remaining: 302
+Nets remaining: 301
+Best route of _342_ collides with nets: _370_ _384_ _371_ 
+Ripping up blocking net _370_
+Ripping up blocking net _384_
+Ripping up blocking net _371_
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Best route of _351_ collides with net: _350_ 
+Ripping up blocking net _350_
+Nets remaining: 301
+Best route of _236_ collides with net: _201_ 
+Ripping up blocking net _201_
+Nets remaining: 301
+Best route of _173_ collides with nets: _217_ _143_ 
+Ripping up blocking net _217_
+Ripping up blocking net _143_
+Nets remaining: 302
+Nets remaining: 301
+Best route of _245_ collides with net: _409_ 
+Ripping up blocking net _409_
+Nets remaining: 301
+Best route of _320_ collides with net: _306_ 
+Ripping up blocking net _306_
+Nets remaining: 301
+Nets remaining: 300
+Nets remaining: 299
+Nets remaining: 298
+Best route of _186_ collides with net: _153_ 
+Ripping up blocking net _153_
+Nets remaining: 298
+Nets remaining: 297
+Best route of _677_ collides with net: _678_ 
+Ripping up blocking net _678_
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of B[2] collides with nets: _131_ _144_ 
+Ripping up blocking net _131_
+Ripping up blocking net _144_
+Nets remaining: 295
+Best route of _195_ collides with nets: _109_ _224_ _134_ 
+Ripping up blocking net _109_
+Ripping up blocking net _224_
+Ripping up blocking net _134_
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of _28_ collides with net: _376_ 
+Ripping up blocking net _376_
+Nets remaining: 295
+Best route of _43_ collides with net: _32_ 
+Ripping up blocking net _32_
+Nets remaining: 295
+Best route of _74_ collides with nets: _33_ _44_ _10_ 
+Ripping up blocking net _33_
+Ripping up blocking net _44_
+Ripping up blocking net _10_
+Nets remaining: 297
+Best route of _708_ collides with net: B[1_bF$buf1] 
+Ripping up blocking net B[1_bF$buf1]
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of A[0] collides with nets: _728_ A[6] _399_ 
+Ripping up blocking net _728_
+Ripping up blocking net A[6]
+Ripping up blocking net _399_
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of _92_ collides with net: B[2] 
+Ripping up blocking net B[2]
+Nets remaining: 295
+Nets remaining: 294
+Best route of _555_ collides with nets: _491_ _586_ 
+Ripping up blocking net _491_
+Ripping up blocking net _586_
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of A[1] collides with nets: A[2] A[0] 
+Ripping up blocking net A[2]
+Ripping up blocking net A[0]
+Nets remaining: 293
+Best route of _313_ collides with net: _314_ 
+Ripping up blocking net _314_
+Nets remaining: 293
+Best route of _265_ collides with nets: _213_ _330_ _309_ 
+Ripping up blocking net _213_
+Ripping up blocking net _330_
+Ripping up blocking net _309_
+Nets remaining: 295
+Nets remaining: 294
+Best route of B[4] collides with net: _708_ 
+Ripping up blocking net _708_
+Nets remaining: 294
+Best route of _319_ collides with nets: _276_ _300_ 
+Ripping up blocking net _276_
+Ripping up blocking net _300_
+Nets remaining: 295
+Best route of _205_ collides with net: _227_ 
+Ripping up blocking net _227_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _165_ collides with nets: _191_ _260_ 
+Ripping up blocking net _191_
+Ripping up blocking net _260_
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Best route of _486__bF$buf3 collides with net: _16_ 
+Ripping up blocking net _16_
+Nets remaining: 288
+Best route of B[1_bF$buf2] collides with net: _400_ 
+Ripping up blocking net _400_
+Nets remaining: 288
+Nets remaining: 287
+Best route of A[5] collides with nets: _754_ _440_ 
+Ripping up blocking net _754_
+Ripping up blocking net _440_
+Nets remaining: 288
+Best route of _484_ collides with nets: _310_ _451_ _425_ _585_ 
+Ripping up blocking net _310_
+Ripping up blocking net _451_
+Ripping up blocking net _425_
+Ripping up blocking net _585_
+Nets remaining: 291
+Best route of _508_ collides with nets: _486__bF$buf0 _514_ 
+Ripping up blocking net _486__bF$buf0
+Ripping up blocking net _514_
+Nets remaining: 292
+Nets remaining: 291
+Best route of _467_ collides with net: _457_ 
+Ripping up blocking net _457_
+Nets remaining: 291
+Best route of _428_ collides with net: _495_ 
+Ripping up blocking net _495_
+Nets remaining: 291
+Nets remaining: 290
+Best route of _478_ collides with nets: _484_ _551_ _487_ _508_ _621_ 
+Ripping up blocking net _484_
+Ripping up blocking net _551_
+Ripping up blocking net _487_
+Ripping up blocking net _508_
+Ripping up blocking net _621_
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of _666_ collides with net: _743_ 
+Ripping up blocking net _743_
+Nets remaining: 292
+Best route of _222_ collides with nets: _454_ _462_ _525_ 
+Ripping up blocking net _454_
+Ripping up blocking net _462_
+Ripping up blocking net _525_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _750_ collides with net: _426_ 
+Ripping up blocking net _426_
+Nets remaining: 293
+Best route of _736_ collides with net: A[1] 
+Ripping up blocking net A[1]
+Nets remaining: 293
+Best route of _212_ collides with nets: _265_ _271_ 
+Ripping up blocking net _265_
+Ripping up blocking net _271_
+Nets remaining: 294
+Best route of _334_ collides with net: _240_ 
+Ripping up blocking net _240_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _149_ collides with net: _165_ 
+Ripping up blocking net _165_
+Nets remaining: 293
+Best route of _157_ collides with nets: _186_ _136_ _112_ _114_ 
+Ripping up blocking net _186_
+Ripping up blocking net _136_
+Ripping up blocking net _112_
+Ripping up blocking net _114_
+Nets remaining: 296
+Best route of _27_ collides with net: _9_ 
+Ripping up blocking net _9_
+Nets remaining: 296
+Best route of _8_ collides with nets: _28_ _820_ 
+Ripping up blocking net _28_
+Ripping up blocking net _820_
+Nets remaining: 297
+Best route of B[1_bF$buf3] collides with nets: _74_ _27_ 
+Ripping up blocking net _74_
+Ripping up blocking net _27_
+Nets remaining: 298
+Nets remaining: 297
+Best route of _300_ collides with net: _327_ 
+Ripping up blocking net _327_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _251_ collides with net: _206_ 
+Ripping up blocking net _206_
+Nets remaining: 296
+Best route of _250_ collides with net: _174_ 
+Ripping up blocking net _174_
+Nets remaining: 296
+Nets remaining: 295
+Best route of _239_ collides with net: _318_ 
+Ripping up blocking net _318_
+Nets remaining: 295
+Best route of _274_ collides with net: _273_ 
+Ripping up blocking net _273_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _256_ collides with nets: _279_ _246_ _245_ _205_ 
+Ripping up blocking net _279_
+Ripping up blocking net _246_
+Ripping up blocking net _245_
+Ripping up blocking net _205_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _657_ collides with nets: _300_ _236_ _149_ _164_ B[1_bF$buf2] 
+Ripping up blocking net _300_
+Ripping up blocking net _236_
+Ripping up blocking net _149_
+Ripping up blocking net _164_
+Ripping up blocking net B[1_bF$buf2]
+Nets remaining: 300
+Nets remaining: 299
+Nets remaining: 298
+Best route of B[2_bF$buf3] collides with nets: B[1_bF$buf3] _108_ _169_ 
+Ripping up blocking net B[1_bF$buf3]
+Ripping up blocking net _108_
+Ripping up blocking net _169_
+Nets remaining: 300
+Best route of _247_ collides with net: _736_ 
+Ripping up blocking net _736_
+Nets remaining: 300
+Nets remaining: 299
+Best route of _455_ collides with nets: _478_ _519_ _522_ _222_ _467_ 
+Ripping up blocking net _478_
+Ripping up blocking net _519_
+Ripping up blocking net _522_
+Ripping up blocking net _222_
+Ripping up blocking net _467_
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Best route of _435_ collides with nets: _737_ _526_ 
+Ripping up blocking net _737_
+Ripping up blocking net _526_
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Best route of _437_ collides with nets: _554_ _627_ _630_ _435_ _443_ 
+Ripping up blocking net _554_
+Ripping up blocking net _627_
+Ripping up blocking net _630_
+Ripping up blocking net _435_
+Ripping up blocking net _443_
+Nets remaining: 304
+Best route of _488_ collides with net: _437_ 
+Ripping up blocking net _437_
+Nets remaining: 304
+Best route of _476_ collides with net: _552_ 
+Ripping up blocking net _552_
+Nets remaining: 304
+Best route of _394_ collides with net: _564_ 
+Ripping up blocking net _564_
+Nets remaining: 304
+Best route of _426_ collides with nets: _455_ _433_ _456_ 
+Ripping up blocking net _455_
+Ripping up blocking net _433_
+Ripping up blocking net _456_
+Nets remaining: 306
+Best route of _445_ collides with net: _667_ 
+Ripping up blocking net _667_
+Nets remaining: 306
+Nets remaining: 305
+Nets remaining: 304
+Nets remaining: 303
+Best route of _682_ collides with net: A[5] 
+Ripping up blocking net A[5]
+Nets remaining: 303
+Nets remaining: 302
+Best route of _722_ collides with nets: _387__bF$buf1 _247_ 
+Ripping up blocking net _387__bF$buf1
+Ripping up blocking net _247_
+Nets remaining: 303
+Best route of _333_ collides with net: _264_ 
+Ripping up blocking net _264_
+Nets remaining: 303
+Best route of _305_ collides with net: _283_ 
+Ripping up blocking net _283_
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Nets remaining: 299
+Best route of _95_ collides with nets: _168_ _101_ _59_ 
+Ripping up blocking net _168_
+Ripping up blocking net _101_
+Ripping up blocking net _59_
+Nets remaining: 301
+Nets remaining: 300
+Nets remaining: 299
+
+No progress at level of effort 40; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 4287
+Failed net routes: 298
+----------------------------------------------
+*** Running stage2 routing with options mask none, effort 60
+Nets remaining: 298
+Nets remaining: 297
+Best route of _51_ collides with net: _57_ 
+Ripping up blocking net _57_
+Nets remaining: 297
+Best route of _14_ collides with net: _40_ 
+Ripping up blocking net _40_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _819_ collides with net: B[2_bF$buf1] 
+Ripping up blocking net B[2_bF$buf1]
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _104_ collides with nets: _548_ _36_ 
+Ripping up blocking net _548_
+Ripping up blocking net _36_
+Nets remaining: 295
+Best route of _549_ collides with nets: _104_ _438_ 
+Ripping up blocking net _104_
+Ripping up blocking net _438_
+Nets remaining: 296
+Nets remaining: 295
+Best route of B[2_bF$buf0] collides with nets: _146_ _8_ 
+Ripping up blocking net _146_
+Ripping up blocking net _8_
+Nets remaining: 296
+Best route of _700_ collides with net: _518_ 
+Ripping up blocking net _518_
+Nets remaining: 296
+Best route of _326_ collides with net: _303_ 
+Ripping up blocking net _303_
+Nets remaining: 296
+Best route of _321_ collides with nets: _326_ _304_ 
+Ripping up blocking net _326_
+Ripping up blocking net _304_
+Nets remaining: 297
+Best route of B[1_bF$buf0] collides with nets: _92_ _700_ _50_ 
+Ripping up blocking net _92_
+Ripping up blocking net _700_
+Ripping up blocking net _50_
+Nets remaining: 299
+Best route of _151_ collides with net: _657_ 
+Ripping up blocking net _657_
+Nets remaining: 299
+Nets remaining: 298
+Best route of _767_ collides with net: B[2_bF$buf0] 
+Ripping up blocking net B[2_bF$buf0]
+Nets remaining: 298
+Best route of _807_ collides with net: _809_ 
+Ripping up blocking net _809_
+Nets remaining: 298
+Best route of _299__bF$buf0 collides with net: B[1_bF$buf0] 
+Ripping up blocking net B[1_bF$buf0]
+Nets remaining: 298
+Nets remaining: 297
+Best route of _553_ collides with nets: _415_ _0_[2] 
+Ripping up blocking net _415_
+Ripping up blocking net _0_[2]
+Nets remaining: 298
+Best route of _731_ collides with net: _553_ 
+Ripping up blocking net _553_
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _253_ collides with nets: _250_ _614_ 
+Ripping up blocking net _250_
+Ripping up blocking net _614_
+Nets remaining: 295
+Best route of _581_ collides with nets: A[7] _580_ _424_ 
+Ripping up blocking net A[7]
+Ripping up blocking net _580_
+Ripping up blocking net _424_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _299__bF$buf1 collides with net: _299__bF$buf0 
+Ripping up blocking net _299__bF$buf0
+Nets remaining: 296
+Best route of _776_ collides with nets: _486__bF$buf1 _299__bF$buf1 
+Ripping up blocking net _486__bF$buf1
+Ripping up blocking net _299__bF$buf1
+Nets remaining: 297
+Nets remaining: 296
+Best route of _742_ collides with net: _520_ 
+Ripping up blocking net _520_
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of _406_ collides with net: _750_ 
+Ripping up blocking net _750_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _93_ collides with net: _126_ 
+Ripping up blocking net _126_
+Nets remaining: 289
+Nets remaining: 288
+Best route of _594_ collides with nets: _488_ _593_ 
+Ripping up blocking net _488_
+Ripping up blocking net _593_
+Nets remaining: 289
+Nets remaining: 288
+Nets remaining: 287
+Best route of _389_ collides with net: _253_ 
+Ripping up blocking net _253_
+Nets remaining: 287
+Nets remaining: 286
+Best route of _671_ collides with nets: _0_[5] _742_ _413_ B[4] 
+Ripping up blocking net _0_[5]
+Ripping up blocking net _742_
+Ripping up blocking net _413_
+Ripping up blocking net B[4]
+Nets remaining: 289
+Best route of _577_ collides with net: _428_ 
+Ripping up blocking net _428_
+Nets remaining: 289
+Nets remaining: 288
+Best route of _744_ collides with nets: _787_ _387__bF$buf3 _733_ 
+Ripping up blocking net _787_
+Ripping up blocking net _387__bF$buf3
+Ripping up blocking net _733_
+Nets remaining: 290
+Best route of _49_ collides with nets: _119_ _51_ _115_ _68_ B[2_bF$buf3] 
+Ripping up blocking net _119_
+Ripping up blocking net _51_
+Ripping up blocking net _115_
+Ripping up blocking net _68_
+Ripping up blocking net B[2_bF$buf3]
+Nets remaining: 294
+Best route of _365_ collides with net: _152_ 
+Ripping up blocking net _152_
+Nets remaining: 294
+Best route of _113_ collides with net: _151_ 
+Ripping up blocking net _151_
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of _29_ collides with nets: _95_ _365_ 
+Ripping up blocking net _95_
+Ripping up blocking net _365_
+Nets remaining: 293
+Best route of _668_ collides with nets: _387__bF$buf0 _29_ _200_ _249_ _110_ 
+Ripping up blocking net _387__bF$buf0
+Ripping up blocking net _29_
+Ripping up blocking net _200_
+Ripping up blocking net _249_
+Ripping up blocking net _110_
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _21_ collides with net: _299__bF$buf2 
+Ripping up blocking net _299__bF$buf2
+Nets remaining: 294
+Best route of _486_ collides with net: _776_ 
+Ripping up blocking net _776_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _84_ collides with net: _91_ 
+Ripping up blocking net _91_
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Best route of _45_ collides with net: _97_ 
+Ripping up blocking net _97_
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _104_ collides with nets: _406_ _503_ _577_ _21_ _161_ 
+Ripping up blocking net _406_
+Ripping up blocking net _503_
+Ripping up blocking net _577_
+Ripping up blocking net _21_
+Ripping up blocking net _161_
+Nets remaining: 293
+Nets remaining: 292
+Best route of _317_ collides with nets: _334_ _272_ 
+Ripping up blocking net _334_
+Ripping up blocking net _272_
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _486__bF$buf2 collides with net: _104_ 
+Ripping up blocking net _104_
+Nets remaining: 289
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Best route of _185_ collides with net: _157_ 
+Ripping up blocking net _157_
+Nets remaining: 286
+Best route of _166_ collides with nets: _195_ _185_ 
+Ripping up blocking net _195_
+Ripping up blocking net _185_
+Nets remaining: 287
+Best route of _150_ collides with net: _668_ 
+Ripping up blocking net _668_
+Nets remaining: 287
+Best route of _605_ collides with nets: _767_ _486__bF$buf2 
+Ripping up blocking net _767_
+Ripping up blocking net _486__bF$buf2
+Nets remaining: 288
+Nets remaining: 287
+Best route of _354_ collides with nets: _220_ _150_ _818_ 
+Ripping up blocking net _220_
+Ripping up blocking net _150_
+Ripping up blocking net _818_
+Nets remaining: 289
+Nets remaining: 288
+Best route of _223_ collides with net: _238_ 
+Ripping up blocking net _238_
+Nets remaining: 288
+Best route of _0_[7] collides with nets: _473_ _797_ 
+Ripping up blocking net _473_
+Ripping up blocking net _797_
+Nets remaining: 289
+Best route of A[4] collides with nets: _707_ _107_ _84_ 
+Ripping up blocking net _707_
+Ripping up blocking net _107_
+Ripping up blocking net _84_
+Nets remaining: 291
+Best route of A[3] collides with net: _299__bF$buf3 
+Ripping up blocking net _299__bF$buf3
+Nets remaining: 291
+Best route of A[5] collides with nets: _486_ _807_ _389_ 
+Ripping up blocking net _486_
+Ripping up blocking net _807_
+Ripping up blocking net _389_
+Nets remaining: 293
+Best route of _414_ collides with nets: _671_ _393_ _223_ 
+Ripping up blocking net _671_
+Ripping up blocking net _393_
+Ripping up blocking net _223_
+Nets remaining: 295
+Best route of _405_ collides with nets: _403_ _397_ A[3] 
+Ripping up blocking net _403_
+Ripping up blocking net _397_
+Ripping up blocking net A[3]
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of B[2_bF$buf1] collides with nets: _562_ A[4] _13_ 
+Ripping up blocking net _562_
+Ripping up blocking net A[4]
+Ripping up blocking net _13_
+Nets remaining: 297
+Best route of _463_ collides with net: _682_ 
+Ripping up blocking net _682_
+Nets remaining: 297
+Best route of _438_ collides with nets: _510_ _476_ _396_ _401_ 
+Ripping up blocking net _510_
+Ripping up blocking net _476_
+Ripping up blocking net _396_
+Ripping up blocking net _401_
+Nets remaining: 300
+Best route of _288_ collides with nets: B[2_bF$buf2] _414_ 
+Ripping up blocking net B[2_bF$buf2]
+Ripping up blocking net _414_
+Nets remaining: 301
+Best route of _557_ collides with nets: B[2_bF$buf1] _405_ 
+Ripping up blocking net B[2_bF$buf1]
+Ripping up blocking net _405_
+Nets remaining: 302
+Best route of _1_ collides with net: _722_ 
+Ripping up blocking net _722_
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Best route of _494_ collides with net: _537_ 
+Ripping up blocking net _537_
+Nets remaining: 300
+Nets remaining: 299
+Best route of _338_ collides with nets: _416_ _463_ _319_ 
+Ripping up blocking net _416_
+Ripping up blocking net _463_
+Ripping up blocking net _319_
+Nets remaining: 301
+Nets remaining: 300
+Best route of _583_ collides with net: _277_ 
+Ripping up blocking net _277_
+Nets remaining: 300
+Best route of _455_ collides with net: _426_ 
+Ripping up blocking net _426_
+Nets remaining: 300
+Best route of _500_ collides with nets: A[5] _738_ 
+Ripping up blocking net A[5]
+Ripping up blocking net _738_
+Nets remaining: 301
+Nets remaining: 300
+Best route of _65_ collides with nets: _120_ _486__bF$buf3 
+Ripping up blocking net _120_
+Ripping up blocking net _486__bF$buf3
+Nets remaining: 301
+Nets remaining: 300
+Nets remaining: 299
+Best route of _477_ collides with nets: _0_[3] _555_ 
+Ripping up blocking net _0_[3]
+Ripping up blocking net _555_
+Nets remaining: 300
+Best route of _423_ collides with net: _455_ 
+Ripping up blocking net _455_
+Nets remaining: 300
+Nets remaining: 299
+
+No progress at level of effort 60; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 4663
+Failed net routes: 298
+----------------------------------------------
+*** Running stage2 routing with options mask none, effort 80
+Nets remaining: 298
+Nets remaining: 297
+Best route of clk collides with net: _390_ 
+Ripping up blocking net _390_
+Nets remaining: 297
+Best route of _422_ collides with net: _392_ 
+Ripping up blocking net _392_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _515_ collides with net: _288_ 
+Ripping up blocking net _288_
+Nets remaining: 296
+Best route of _478_ collides with nets: _513_ _461_ _588_ 
+Ripping up blocking net _513_
+Ripping up blocking net _461_
+Ripping up blocking net _588_
+Nets remaining: 298
+Best route of _747_ collides with nets: _746_ _493_ 
+Ripping up blocking net _746_
+Ripping up blocking net _493_
+Nets remaining: 299
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of B[6] collides with nets: _385_ _212_ _219_ 
+Ripping up blocking net _385_
+Ripping up blocking net _212_
+Ripping up blocking net _219_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _79_ collides with nets: _398_ _438_ _83_ _65_ 
+Ripping up blocking net _398_
+Ripping up blocking net _438_
+Ripping up blocking net _83_
+Ripping up blocking net _65_
+Nets remaining: 299
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of _794_ collides with nets: _474_ _445_ _748_ 
+Ripping up blocking net _474_
+Ripping up blocking net _445_
+Ripping up blocking net _748_
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of B[5] collides with nets: _500_ _351_ _346_ B[6] 
+Ripping up blocking net _500_
+Ripping up blocking net _351_
+Ripping up blocking net _346_
+Ripping up blocking net B[6]
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Best route of _386_ collides with net: _799_ 
+Ripping up blocking net _799_
+Nets remaining: 293
+Best route of _335_ collides with net: B[5] 
+Ripping up blocking net B[5]
+Nets remaining: 293
+Best route of _811_ collides with nets: _71_ _45_ _79_ 
+Ripping up blocking net _71_
+Ripping up blocking net _45_
+Ripping up blocking net _79_
+Nets remaining: 295
+Best route of _247_ collides with net: _251_ 
+Ripping up blocking net _251_
+Nets remaining: 295
+Best route of _507_ collides with net: _711_ 
+Ripping up blocking net _711_
+Nets remaining: 295
+Best route of B[0] collides with net: _116_ 
+Ripping up blocking net _116_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _469_ collides with nets: _619_ _581_ _429_ 
+Ripping up blocking net _619_
+Ripping up blocking net _581_
+Ripping up blocking net _429_
+Nets remaining: 296
+Best route of B[7] collides with nets: _319_ _280_ _332_ _747_ _386_ _344_ _366_ 
+Ripping up blocking net _319_
+Ripping up blocking net _280_
+Ripping up blocking net _332_
+Ripping up blocking net _747_
+Ripping up blocking net _386_
+Ripping up blocking net _344_
+Ripping up blocking net _366_
+Nets remaining: 302
+Nets remaining: 301
+Best route of B[3] collides with nets: _594_ A[0] _811_ _387__bF$buf2 _320_ 
+Ripping up blocking net _594_
+Ripping up blocking net A[0]
+Ripping up blocking net _811_
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _320_
+Nets remaining: 305
+Best route of _407_ collides with net: B[7] 
+Ripping up blocking net B[7]
+Nets remaining: 305
+Best route of _749_ collides with nets: _447_ _511_ 
+Ripping up blocking net _447_
+Ripping up blocking net _511_
+Nets remaining: 306
+Best route of _431_ collides with nets: _70_ _569_ 
+Ripping up blocking net _70_
+Ripping up blocking net _569_
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Best route of _547_ collides with nets: _478_ _431_ 
+Ripping up blocking net _478_
+Ripping up blocking net _431_
+Nets remaining: 306
+Nets remaining: 305
+Nets remaining: 304
+Nets remaining: 303
+Best route of _470_ collides with net: _589_ 
+Ripping up blocking net _589_
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Nets remaining: 299
+Nets remaining: 298
+Best route of _270_ collides with nets: B[3] _258_ 
+Ripping up blocking net B[3]
+Ripping up blocking net _258_
+Nets remaining: 299
+Best route of _377_ collides with net: _335_ 
+Ripping up blocking net _335_
+Nets remaining: 299
+Best route of _370_ collides with net: _338_ 
+Ripping up blocking net _338_
+Nets remaining: 299
+Nets remaining: 298
+Best route of _371_ collides with net: _342_ 
+Ripping up blocking net _342_
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _409_ collides with nets: _387__bF$buf2 _772_ _677_ 
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _772_
+Ripping up blocking net _677_
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Best route of _131_ collides with net: _354_ 
+Ripping up blocking net _354_
+Nets remaining: 293
+Best route of _144_ collides with net: _148_ 
+Ripping up blocking net _148_
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Best route of _134_ collides with nets: _111_ _153_ 
+Ripping up blocking net _111_
+Ripping up blocking net _153_
+Nets remaining: 292
+Best route of _376_ collides with nets: _469_ _394_ _130_ 
+Ripping up blocking net _469_
+Ripping up blocking net _394_
+Ripping up blocking net _130_
+Nets remaining: 294
+Best route of _32_ collides with net: _82_ 
+Ripping up blocking net _82_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _44_ collides with nets: _25_ _33_ 
+Ripping up blocking net _25_
+Ripping up blocking net _33_
+Nets remaining: 294
+Nets remaining: 293
+Best route of B[1_bF$buf1] collides with nets: _376_ _23_ 
+Ripping up blocking net _376_
+Ripping up blocking net _23_
+Nets remaining: 294
+Nets remaining: 293
+Best route of A[6] collides with nets: _247_ _299_ _387_ 
+Ripping up blocking net _247_
+Ripping up blocking net _299_
+Ripping up blocking net _387_
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Best route of _491_ collides with net: _547_ 
+Ripping up blocking net _547_
+Nets remaining: 293
+Best route of _586_ collides with net: _470_ 
+Ripping up blocking net _470_
+Nets remaining: 293
+Best route of A[2] collides with net: _407_ 
+Ripping up blocking net _407_
+Nets remaining: 293
+Best route of A[0] collides with nets: A[6] A[2] B[1_bF$buf1] _494_ 
+Ripping up blocking net A[6]
+Ripping up blocking net A[2]
+Ripping up blocking net B[1_bF$buf1]
+Ripping up blocking net _494_
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _330_ collides with net: _358_ 
+Ripping up blocking net _358_
+Nets remaining: 294
+Best route of _309_ collides with nets: _803_ _314_ 
+Ripping up blocking net _803_
+Ripping up blocking net _314_
+Nets remaining: 295
+Best route of _708_ collides with net: _705_ 
+Ripping up blocking net _705_
+Nets remaining: 295
+Best route of _276_ collides with nets: _464_ _363_ _328_ 
+Ripping up blocking net _464_
+Ripping up blocking net _363_
+Ripping up blocking net _328_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _227_ collides with nets: _230_ _300_ 
+Ripping up blocking net _230_
+Ripping up blocking net _300_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _260_ collides with nets: _262_ _197_ _270_ 
+Ripping up blocking net _262_
+Ripping up blocking net _197_
+Ripping up blocking net _270_
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Best route of _486__bF$buf0 collides with net: _298_ 
+Ripping up blocking net _298_
+Nets remaining: 290
+Best route of _514_ collides with nets: _509_ _795_ _585_ _402_ _451_ 
+Ripping up blocking net _509_
+Ripping up blocking net _795_
+Ripping up blocking net _585_
+Ripping up blocking net _402_
+Ripping up blocking net _451_
+Nets remaining: 294
+Best route of _457_ collides with net: _458_ 
+Ripping up blocking net _458_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _484_ collides with nets: _587_ _790_ 
+Ripping up blocking net _587_
+Ripping up blocking net _790_
+Nets remaining: 294
+Best route of _551_ collides with net: _495_ 
+Ripping up blocking net _495_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _508_ collides with net: _514_ 
+Ripping up blocking net _514_
+Nets remaining: 293
+Nets remaining: 292
+Best route of _743_ collides with net: _446_ 
+Ripping up blocking net _446_
+Nets remaining: 292
+Best route of _454_ collides with nets: _484_ _417_ select[0] _460_ _586_ 
+Ripping up blocking net _484_
+Ripping up blocking net _417_
+Ripping up blocking net select[0]
+Ripping up blocking net _460_
+Ripping up blocking net _586_
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _426_ collides with net: A[0] 
+Ripping up blocking net A[0]
+Nets remaining: 294
+Best route of A[1] collides with net: _702_ 
+Ripping up blocking net _702_
+Nets remaining: 294
+Best route of _265_ collides with nets: _239_ _213_ 
+Ripping up blocking net _239_
+Ripping up blocking net _213_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _240_ collides with nets: _317_ _271_ _276_ 
+Ripping up blocking net _317_
+Ripping up blocking net _271_
+Ripping up blocking net _276_
+Nets remaining: 296
+Best route of _165_ collides with nets: _224_ _260_ _409_ 
+Ripping up blocking net _224_
+Ripping up blocking net _260_
+Ripping up blocking net _409_
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of _114_ collides with net: _191_ 
+Ripping up blocking net _191_
+Nets remaining: 295
+Best route of _9_ collides with net: _43_ 
+Ripping up blocking net _43_
+Nets remaining: 295
+Best route of _28_ collides with nets: _49_ _32_ 
+Ripping up blocking net _49_
+Ripping up blocking net _32_
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _27_ collides with net: _74_ 
+Ripping up blocking net _74_
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of _174_ collides with nets: _190_ _217_ _343_ 
+Ripping up blocking net _190_
+Ripping up blocking net _217_
+Ripping up blocking net _343_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _273_ collides with net: _240_ 
+Ripping up blocking net _240_
+Nets remaining: 293
+Best route of _279_ collides with net: _256_ 
+Ripping up blocking net _256_
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _236_ collides with nets: _227_ _221_ 
+Ripping up blocking net _227_
+Ripping up blocking net _221_
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Best route of B[1_bF$buf2] collides with net: _808_ 
+Ripping up blocking net _808_
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Best route of _169_ collides with net: _144_ 
+Ripping up blocking net _144_
+Nets remaining: 286
+Best route of _736_ collides with net: _534_ 
+Ripping up blocking net _534_
+Nets remaining: 286
+Best route of _478_ collides with net: _457_ 
+Ripping up blocking net _457_
+Nets remaining: 286
+Nets remaining: 285
+Best route of _522_ collides with net: _624_ 
+Ripping up blocking net _624_
+Nets remaining: 285
+Best route of _222_ collides with net: _462_ 
+Ripping up blocking net _462_
+Nets remaining: 285
+Nets remaining: 284
+Nets remaining: 283
+Nets remaining: 282
+Best route of _554_ collides with net: _478_ 
+Ripping up blocking net _478_
+Nets remaining: 282
+Nets remaining: 281
+Best route of _630_ collides with nets: _426_ _554_ 
+Ripping up blocking net _426_
+Ripping up blocking net _554_
+Nets remaining: 282
+Nets remaining: 281
+Nets remaining: 280
+Best route of _437_ collides with nets: _491_ _443_ 
+Ripping up blocking net _491_
+Ripping up blocking net _443_
+Nets remaining: 281
+Best route of _552_ collides with net: _551_ 
+Ripping up blocking net _551_
+Nets remaining: 281
+Nets remaining: 280
+Nets remaining: 279
+Best route of _433_ collides with nets: _627_ _665_ _437_ 
+Ripping up blocking net _627_
+Ripping up blocking net _665_
+Ripping up blocking net _437_
+Nets remaining: 281
+Best route of _456_ collides with net: _546_ 
+Ripping up blocking net _546_
+Nets remaining: 281
+Best route of _667_ collides with nets: clk _670_ 
+Ripping up blocking net clk
+Ripping up blocking net _670_
+Nets remaining: 282
+Best route of A[5] collides with nets: B[1_bF$buf2] A[1] _395_ _387__bF$buf2 _108_ _798_ 
+Ripping up blocking net B[1_bF$buf2]
+Ripping up blocking net A[1]
+Ripping up blocking net _395_
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _108_
+Ripping up blocking net _798_
+Nets remaining: 287
+Best route of _387__bF$buf1 collides with net: B[0] 
+Ripping up blocking net B[0]
+Nets remaining: 287
+Nets remaining: 286
+Nets remaining: 285
+Best route of _283_ collides with net: A[5] 
+Ripping up blocking net A[5]
+Nets remaining: 285
+Nets remaining: 284
+Nets remaining: 283
+Best route of _59_ collides with nets: _58_ _101_ 
+Ripping up blocking net _58_
+Ripping up blocking net _101_
+Nets remaining: 284
+Nets remaining: 283
+Best route of _40_ collides with nets: _39_ _41_ 
+Ripping up blocking net _39_
+Ripping up blocking net _41_
+Nets remaining: 284
+Best route of B[2_bF$buf1] collides with net: _247_ 
+Ripping up blocking net _247_
+Nets remaining: 284
+Nets remaining: 283
+Nets remaining: 282
+Best route of _104_ collides with nets: _709_ B[1_bF$buf3] _85_ 
+Ripping up blocking net _709_
+Ripping up blocking net B[1_bF$buf3]
+Ripping up blocking net _85_
+Nets remaining: 284
+Best route of _438_ collides with nets: _508_ _549_ _542_ _0_[4] _455_ _516_ _558_ 
+Ripping up blocking net _508_
+Ripping up blocking net _549_
+Ripping up blocking net _542_
+Ripping up blocking net _0_[4]
+Ripping up blocking net _455_
+Ripping up blocking net _516_
+Ripping up blocking net _558_
+Nets remaining: 290
+Nets remaining: 289
+Best route of _8_ collides with net: _387__bF$buf1 
+Ripping up blocking net _387__bF$buf1
+Nets remaining: 289
+Nets remaining: 288
+Best route of _303_ collides with net: _486__bF$buf0 
+Ripping up blocking net _486__bF$buf0
+Nets remaining: 288
+Nets remaining: 287
+Nets remaining: 286
+Best route of _92_ collides with nets: _109_ _168_ _113_ 
+Ripping up blocking net _109_
+Ripping up blocking net _168_
+Ripping up blocking net _113_
+Nets remaining: 288
+Best route of _700_ collides with nets: _326_ _689_ 
+Ripping up blocking net _326_
+Ripping up blocking net _689_
+Nets remaining: 289
+Nets remaining: 288
+Best route of _657_ collides with nets: _165_ _114_ _166_ _103_ _164_ _112_ 
+Ripping up blocking net _165_
+Ripping up blocking net _114_
+Ripping up blocking net _166_
+Ripping up blocking net _103_
+Ripping up blocking net _164_
+Ripping up blocking net _112_
+Nets remaining: 293
+Best route of B[2_bF$buf0] collides with net: _87_ 
+Ripping up blocking net _87_
+Nets remaining: 293
+Best route of _809_ collides with net: _754_ 
+Ripping up blocking net _754_
+Nets remaining: 293
+Best route of B[1_bF$buf0] collides with net: _736_ 
+Ripping up blocking net _736_
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Best route of _553_ collides with net: _0_[2] 
+Ripping up blocking net _0_[2]
+Nets remaining: 291
+Best route of _250_ collides with nets: _174_ _294_ 
+Ripping up blocking net _174_
+Ripping up blocking net _294_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _424_ collides with nets: _552_ A[7] 
+Ripping up blocking net _552_
+Ripping up blocking net A[7]
+Nets remaining: 290
+Nets remaining: 289
+Best route of _486__bF$buf1 collides with nets: _92_ _104_ 
+Ripping up blocking net _92_
+Ripping up blocking net _104_
+Nets remaining: 290
+Best route of _299__bF$buf1 collides with nets: _387__bF$buf2 _105_ B[1_bF$buf0] 
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _105_
+Ripping up blocking net B[1_bF$buf0]
+Nets remaining: 292
+Nets remaining: 291
+Best route of _750_ collides with nets: _424_ _756_ 
+Ripping up blocking net _424_
+Ripping up blocking net _756_
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _253_ collides with nets: _254_ B[2_bF$buf0] 
+Ripping up blocking net _254_
+Ripping up blocking net B[2_bF$buf0]
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Best route of _413_ collides with net: _678_ 
+Ripping up blocking net _678_
+Nets remaining: 288
+Best route of B[4] collides with nets: _739_ _486__bF$buf1 _175_ _592_ 
+Ripping up blocking net _739_
+Ripping up blocking net _486__bF$buf1
+Ripping up blocking net _175_
+Ripping up blocking net _592_
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of _387__bF$buf3 collides with nets: _427_ _299__bF$buf0 _706_ 
+Ripping up blocking net _427_
+Ripping up blocking net _299__bF$buf0
+Ripping up blocking net _706_
+Nets remaining: 291
+Best route of _733_ collides with net: _744_ 
+Ripping up blocking net _744_
+Nets remaining: 291
+Nets remaining: 290
+Best route of _51_ collides with nets: _57_ _66_ 
+Ripping up blocking net _57_
+Ripping up blocking net _66_
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Best route of B[2_bF$buf3] collides with nets: _9_ _131_ 
+Ripping up blocking net _9_
+Ripping up blocking net _131_
+Nets remaining: 290
+Nets remaining: 289
+Best route of _151_ collides with nets: _657_ _152_ 
+Ripping up blocking net _657_
+Ripping up blocking net _152_
+Nets remaining: 290
+Nets remaining: 289
+Best route of _365_ collides with nets: B[2] B[2_bF$buf3] 
+Ripping up blocking net B[2]
+Ripping up blocking net B[2_bF$buf3]
+Nets remaining: 290
+Nets remaining: 289
+Best route of _29_ collides with net: _95_ 
+Ripping up blocking net _95_
+Nets remaining: 289
+Best route of _200_ collides with net: _243_ 
+Ripping up blocking net _243_
+Nets remaining: 289
+Best route of _249_ collides with nets: _250_ _253_ _252_ _289_ 
+Ripping up blocking net _250_
+Ripping up blocking net _253_
+Ripping up blocking net _252_
+Ripping up blocking net _289_
+Nets remaining: 292
+Best route of _110_ collides with nets: B[4] _303_ 
+Ripping up blocking net B[4]
+Ripping up blocking net _303_
+Nets remaining: 293
+Best route of _299__bF$buf2 collides with net: B[2_bF$buf1] 
+Ripping up blocking net B[2_bF$buf1]
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Nets remaining: 287
+Best route of _21_ collides with nets: _708_ _413_ _434_ 
+Ripping up blocking net _708_
+Ripping up blocking net _413_
+Ripping up blocking net _434_
+Nets remaining: 289
+Nets remaining: 288
+Best route of _334_ collides with net: _268_ 
+Ripping up blocking net _268_
+Nets remaining: 288
+Best route of _272_ collides with net: _234_ 
+Ripping up blocking net _234_
+Nets remaining: 288
+Best route of _104_ collides with nets: _433_ _406_ _35_ _778_ _299__bF$buf1 _4_ 
+Ripping up blocking net _433_
+Ripping up blocking net _406_
+Ripping up blocking net _35_
+Ripping up blocking net _778_
+Ripping up blocking net _299__bF$buf1
+Ripping up blocking net _4_
+Nets remaining: 293
+Best route of _157_ collides with net: _186_ 
+Ripping up blocking net _186_
+Nets remaining: 293
+Nets remaining: 292
+Best route of _185_ collides with nets: _149_ _172_ _200_ 
+Ripping up blocking net _149_
+Ripping up blocking net _172_
+Ripping up blocking net _200_
+Nets remaining: 294
+Best route of _668_ collides with nets: _162_ _387__bF$buf0 _249_ 
+Ripping up blocking net _162_
+Ripping up blocking net _387__bF$buf0
+Ripping up blocking net _249_
+Nets remaining: 296
+Best route of _767_ collides with net: _605_ 
+Ripping up blocking net _605_
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Nets remaining: 289
+Nets remaining: 288
+Best route of _107_ collides with nets: _707_ _486__bF$buf2 _767_ _820_ _38_ 
+Ripping up blocking net _707_
+Ripping up blocking net _486__bF$buf2
+Ripping up blocking net _767_
+Ripping up blocking net _820_
+Ripping up blocking net _38_
+Nets remaining: 292
+Nets remaining: 291
+Best route of _299__bF$buf3 collides with net: _104_ 
+Ripping up blocking net _104_
+Nets remaining: 291
+Best route of _486_ collides with nets: _107_ B[1] 
+Ripping up blocking net _107_
+Ripping up blocking net B[1]
+Nets remaining: 292
+Best route of _807_ collides with nets: _7_ _21_ _486_ 
+Ripping up blocking net _7_
+Ripping up blocking net _21_
+Ripping up blocking net _486_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _671_ collides with nets: _730_ _520_ _456_ 
+Ripping up blocking net _730_
+Ripping up blocking net _520_
+Ripping up blocking net _456_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _223_ collides with net: _334_ 
+Ripping up blocking net _334_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _397_ collides with net: _400_ 
+Ripping up blocking net _400_
+Nets remaining: 293
+Best route of A[3] collides with net: _299__bF$buf3 
+Ripping up blocking net _299__bF$buf3
+Nets remaining: 293
+Nets remaining: 292
+Best route of A[4] collides with nets: _435_ _675_ _50_ _15_ 
+Ripping up blocking net _435_
+Ripping up blocking net _675_
+Ripping up blocking net _50_
+Ripping up blocking net _15_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _682_ collides with nets: _488_ _222_ 
+Ripping up blocking net _488_
+Ripping up blocking net _222_
+Nets remaining: 295
+Best route of _510_ collides with nets: _671_ _682_ _438_ 
+Ripping up blocking net _671_
+Ripping up blocking net _682_
+Ripping up blocking net _438_
+Nets remaining: 297
+Nets remaining: 296
+Best route of _396_ collides with nets: _310_ _397_ 
+Ripping up blocking net _310_
+Ripping up blocking net _397_
+Nets remaining: 297
+Best route of _401_ collides with nets: _510_ _476_ 
+Ripping up blocking net _510_
+Ripping up blocking net _476_
+Nets remaining: 298
+Best route of B[2_bF$buf2] collides with nets: _389_ A[3] _668_ 
+Ripping up blocking net _389_
+Ripping up blocking net A[3]
+Ripping up blocking net _668_
+Nets remaining: 300
+Nets remaining: 299
+Nets remaining: 298
+Nets remaining: 297
+Best route of _722_ collides with nets: _321_ B[2_bF$buf1] 
+Ripping up blocking net _321_
+Ripping up blocking net B[2_bF$buf1]
+Nets remaining: 298
+Nets remaining: 297
+Nets remaining: 296
+Best route of _463_ collides with nets: _553_ _522_ 
+Ripping up blocking net _553_
+Ripping up blocking net _522_
+Nets remaining: 297
+Best route of _319_ collides with nets: _333_ _264_ 
+Ripping up blocking net _333_
+Ripping up blocking net _264_
+Nets remaining: 298
+Best route of _277_ collides with net: _750_ 
+Ripping up blocking net _750_
+Nets remaining: 298
+Nets remaining: 297
+Best route of A[5] collides with net: _426_ 
+Ripping up blocking net _426_
+Nets remaining: 297
+Best route of _738_ collides with net: _673_ 
+Ripping up blocking net _673_
+Nets remaining: 297
+Nets remaining: 296
+Nets remaining: 295
+Best route of _0_[3] collides with net: _463_ 
+Ripping up blocking net _463_
+Nets remaining: 295
+Best route of _555_ collides with net: _454_ 
+Ripping up blocking net _454_
+Nets remaining: 295
+Best route of _455_ collides with net: _590_ 
+Ripping up blocking net _590_
+Nets remaining: 295
+Best route of _390_ collides with net: _223_ 
+Ripping up blocking net _223_
+Nets remaining: 295
+Best route of _392_ collides with net: A[5] 
+Ripping up blocking net A[5]
+Nets remaining: 295
+Best route of _288_ collides with nets: _503_ A[4] 
+Ripping up blocking net _503_
+Ripping up blocking net A[4]
+Nets remaining: 296
+Nets remaining: 295
+Nets remaining: 294
+Best route of _588_ collides with net: _0_[3] 
+Ripping up blocking net _0_[3]
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of _385_ collides with nets: _371_ _521_ 
+Ripping up blocking net _371_
+Ripping up blocking net _521_
+Nets remaining: 293
+Best route of _212_ collides with nets: _361_ _206_ 
+Ripping up blocking net _361_
+Ripping up blocking net _206_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _398_ collides with nets: _731_ _392_ 
+Ripping up blocking net _731_
+Ripping up blocking net _392_
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Best route of _445_ collides with nets: _474_ _493_ 
+Ripping up blocking net _474_
+Ripping up blocking net _493_
+Nets remaining: 291
+Best route of _748_ collides with net: _794_ 
+Ripping up blocking net _794_
+Nets remaining: 291
+Best route of _500_ collides with nets: _398_ _405_ 
+Ripping up blocking net _398_
+Ripping up blocking net _405_
+Nets remaining: 292
+Best route of _351_ collides with nets: _377_ _309_ 
+Ripping up blocking net _377_
+Ripping up blocking net _309_
+Nets remaining: 293
+Nets remaining: 292
+Nets remaining: 291
+Nets remaining: 290
+Best route of B[5] collides with nets: _350_ _330_ _345_ _265_ _236_ 
+Ripping up blocking net _350_
+Ripping up blocking net _330_
+Ripping up blocking net _345_
+Ripping up blocking net _265_
+Ripping up blocking net _236_
+Nets remaining: 294
+Nets remaining: 293
+Best route of _45_ collides with nets: _67_ _56_ 
+Ripping up blocking net _67_
+Ripping up blocking net _56_
+
+No progress at level of effort 80; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 5828
+Failed net routes: 294
+----------------------------------------------
+*** Running stage2 routing with options mask none, effort 100
+Nets remaining: 294
+Best route of _79_ collides with nets: _815_ _51_ 
+Ripping up blocking net _815_
+Ripping up blocking net _51_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _711_ collides with nets: _288_ _500_ _560_ 
+Ripping up blocking net _288_
+Ripping up blocking net _500_
+Ripping up blocking net _560_
+Nets remaining: 296
+Best route of _116_ collides with net: B[5] 
+Ripping up blocking net B[5]
+Nets remaining: 296
+Best route of _619_ collides with net: _620_ 
+Ripping up blocking net _620_
+Nets remaining: 296
+Nets remaining: 295
+Best route of _429_ collides with net: _683_ 
+Ripping up blocking net _683_
+Nets remaining: 295
+Best route of _319_ collides with net: _228_ 
+Ripping up blocking net _228_
+Nets remaining: 295
+Nets remaining: 294
+Best route of _332_ collides with net: B[6] 
+Ripping up blocking net B[6]
+Nets remaining: 294
+Best route of _747_ collides with net: _800_ 
+Ripping up blocking net _800_
+Nets remaining: 294
+Nets remaining: 293
+Nets remaining: 292
+Best route of _366_ collides with nets: _346_ _319_ 
+Ripping up blocking net _346_
+Ripping up blocking net _319_
+Nets remaining: 293
+Nets remaining: 292
+Best route of A[0] collides with nets: _277_ _729_ _753_ _429_ 
+Ripping up blocking net _277_
+Ripping up blocking net _729_
+Ripping up blocking net _753_
+Ripping up blocking net _429_
+Nets remaining: 295
+Best route of _811_ collides with nets: _71_ _29_ _102_ _84_ _61_ 
+Ripping up blocking net _71_
+Ripping up blocking net _29_
+Ripping up blocking net _102_
+Ripping up blocking net _84_
+Ripping up blocking net _61_
+Nets remaining: 299
+Nets remaining: 298
+Nets remaining: 297
+Best route of B[7] collides with nets: A[0] _513_ _387__bF$buf2 _386_ 
+Ripping up blocking net A[0]
+Ripping up blocking net _513_
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _386_
+Nets remaining: 300
+Best route of _447_ collides with net: _796_ 
+Ripping up blocking net _796_
+Nets remaining: 300
+Best route of _511_ collides with nets: B[7] _548_ _748_ _747_ 
+Ripping up blocking net B[7]
+Ripping up blocking net _548_
+Ripping up blocking net _748_
+Ripping up blocking net _747_
+Nets remaining: 303
+Nets remaining: 302
+Best route of _569_ collides with net: _581_ 
+Ripping up blocking net _581_
+Nets remaining: 302
+Nets remaining: 301
+Best route of _431_ collides with nets: _70_ _10_ _401_ _455_ _722_ _733_ _320_ _110_ _157_ 
+Ripping up blocking net _70_
+Ripping up blocking net _10_
+Ripping up blocking net _401_
+Ripping up blocking net _455_
+Ripping up blocking net _722_
+Ripping up blocking net _733_
+Ripping up blocking net _320_
+Ripping up blocking net _110_
+Ripping up blocking net _157_
+Nets remaining: 309
+Nets remaining: 308
+Best route of B[3] collides with nets: _98_ _811_ _387__bF$buf2 _511_ _169_ 
+Ripping up blocking net _98_
+Ripping up blocking net _811_
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _511_
+Ripping up blocking net _169_
+Nets remaining: 312
+Nets remaining: 311
+Nets remaining: 310
+Best route of _338_ collides with net: _385_ 
+Ripping up blocking net _385_
+Nets remaining: 310
+Best route of _342_ collides with nets: _0_[5] _383_ 
+Ripping up blocking net _0_[5]
+Ripping up blocking net _383_
+Nets remaining: 311
+Best route of _387__bF$buf2 collides with nets: _431_ _774_ 
+Ripping up blocking net _431_
+Ripping up blocking net _774_
+Nets remaining: 312
+Nets remaining: 311
+Nets remaining: 310
+Best route of _354_ collides with nets: _195_ _150_ 
+Ripping up blocking net _195_
+Ripping up blocking net _150_
+Nets remaining: 311
+Nets remaining: 310
+Nets remaining: 309
+Best route of _153_ collides with nets: _193_ _136_ 
+Ripping up blocking net _193_
+Ripping up blocking net _136_
+Nets remaining: 310
+Nets remaining: 309
+Nets remaining: 308
+Nets remaining: 307
+Best route of _82_ collides with net: _79_ 
+Ripping up blocking net _79_
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Best route of _376_ collides with nets: _258_ _365_ 
+Ripping up blocking net _258_
+Ripping up blocking net _365_
+Nets remaining: 306
+Best route of _23_ collides with net: _25_ 
+Ripping up blocking net _25_
+Nets remaining: 306
+Best route of _247_ collides with net: _396_ 
+Ripping up blocking net _396_
+Nets remaining: 306
+Nets remaining: 305
+Best route of _387_ collides with net: _387__bF$buf2 
+Ripping up blocking net _387__bF$buf2
+Nets remaining: 305
+Best route of _547_ collides with net: B[3] 
+Ripping up blocking net B[3]
+Nets remaining: 305
+Best route of _470_ collides with nets: _478_ _472_ _466_ _438_ 
+Ripping up blocking net _478_
+Ripping up blocking net _472_
+Ripping up blocking net _466_
+Ripping up blocking net _438_
+Nets remaining: 308
+Best route of _407_ collides with nets: _629_ _470_ _376_ 
+Ripping up blocking net _629_
+Ripping up blocking net _470_
+Ripping up blocking net _376_
+Nets remaining: 310
+Nets remaining: 309
+Best route of A[2] collides with nets: _394_ _45_ _547_ _614_ _557_ 
+Ripping up blocking net _394_
+Ripping up blocking net _45_
+Ripping up blocking net _547_
+Ripping up blocking net _614_
+Ripping up blocking net _557_
+Nets remaining: 313
+Nets remaining: 312
+Nets remaining: 311
+Nets remaining: 310
+Best route of _803_ collides with net: _338_ 
+Ripping up blocking net _338_
+Nets remaining: 310
+Best route of _314_ collides with net: _335_ 
+Ripping up blocking net _335_
+Nets remaining: 310
+Best route of _705_ collides with nets: _299__bF$buf2 _247_ 
+Ripping up blocking net _299__bF$buf2
+Ripping up blocking net _247_
+Nets remaining: 311
+Nets remaining: 310
+Best route of _363_ collides with net: _368_ 
+Ripping up blocking net _368_
+Nets remaining: 310
+Nets remaining: 309
+Nets remaining: 308
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Best route of _270_ collides with nets: _297_ A[2] _464_ 
+Ripping up blocking net _297_
+Ripping up blocking net A[2]
+Ripping up blocking net _464_
+Nets remaining: 307
+Best route of _298_ collides with net: _304_ 
+Ripping up blocking net _304_
+Nets remaining: 307
+Nets remaining: 306
+Best route of _795_ collides with nets: _509_ _447_ 
+Ripping up blocking net _509_
+Ripping up blocking net _447_
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Best route of _451_ collides with nets: _469_ _594_ 
+Ripping up blocking net _469_
+Ripping up blocking net _594_
+Nets remaining: 306
+Best route of _458_ collides with net: _425_ 
+Ripping up blocking net _425_
+Nets remaining: 306
+Best route of _587_ collides with net: _580_ 
+Ripping up blocking net _580_
+Nets remaining: 306
+Nets remaining: 305
+Best route of _495_ collides with net: _621_ 
+Ripping up blocking net _621_
+Nets remaining: 305
+Best route of _514_ collides with nets: A[6] _795_ 
+Ripping up blocking net A[6]
+Ripping up blocking net _795_
+Nets remaining: 306
+Nets remaining: 305
+Nets remaining: 304
+Best route of _417_ collides with net: _484_ 
+Ripping up blocking net _484_
+Nets remaining: 304
+Best route of select[0] collides with net: _244_ 
+Ripping up blocking net _244_
+Nets remaining: 304
+Nets remaining: 303
+Best route of _586_ collides with net: _555_ 
+Ripping up blocking net _555_
+Nets remaining: 303
+Best route of A[0] collides with net: _537_ 
+Ripping up blocking net _537_
+Nets remaining: 303
+Nets remaining: 302
+Best route of _239_ collides with nets: _272_ _314_ 
+Ripping up blocking net _272_
+Ripping up blocking net _314_
+Nets remaining: 303
+Best route of _213_ collides with net: _214_ 
+Ripping up blocking net _214_
+Nets remaining: 303
+Best route of _317_ collides with nets: _212_ _273_ 
+Ripping up blocking net _212_
+Ripping up blocking net _273_
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Best route of _260_ collides with nets: _210_ _208_ 
+Ripping up blocking net _210_
+Ripping up blocking net _208_
+Nets remaining: 302
+Best route of _409_ collides with net: _363_ 
+Ripping up blocking net _363_
+Nets remaining: 302
+Best route of _191_ collides with nets: _146_ _204_ _220_ 
+Ripping up blocking net _146_
+Ripping up blocking net _204_
+Ripping up blocking net _220_
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Best route of _32_ collides with nets: _46_ _43_ _28_ _486__bF$buf3 
+Ripping up blocking net _46_
+Ripping up blocking net _43_
+Ripping up blocking net _28_
+Ripping up blocking net _486__bF$buf3
+Nets remaining: 305
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Best route of _343_ collides with nets: _177_ _205_ _409_ _246_ _224_ _271_ _217_ 
+Ripping up blocking net _177_
+Ripping up blocking net _205_
+Ripping up blocking net _409_
+Ripping up blocking net _246_
+Ripping up blocking net _224_
+Ripping up blocking net _271_
+Ripping up blocking net _217_
+Nets remaining: 308
+Best route of _240_ collides with net: _276_ 
+Ripping up blocking net _276_
+Nets remaining: 308
+Best route of _256_ collides with nets: _279_ _343_ 
+Ripping up blocking net _279_
+Ripping up blocking net _343_
+Nets remaining: 309
+Nets remaining: 308
+Nets remaining: 307
+Best route of _808_ collides with net: _776_ 
+Ripping up blocking net _776_
+Nets remaining: 307
+Nets remaining: 306
+Best route of _534_ collides with net: _387__bF$buf3 
+Ripping up blocking net _387__bF$buf3
+Nets remaining: 306
+Nets remaining: 305
+Best route of _624_ collides with net: _407_ 
+Ripping up blocking net _407_
+Nets remaining: 305
+Best route of _462_ collides with nets: _790_ _473_ _460_ _477_ 
+Ripping up blocking net _790_
+Ripping up blocking net _473_
+Ripping up blocking net _460_
+Ripping up blocking net _477_
+Nets remaining: 308
+Nets remaining: 307
+Best route of _426_ collides with net: _622_ 
+Ripping up blocking net _622_
+Nets remaining: 307
+Best route of _554_ collides with nets: _478_ _630_ _402_ 
+Ripping up blocking net _478_
+Ripping up blocking net _630_
+Ripping up blocking net _402_
+Nets remaining: 309
+Nets remaining: 308
+Nets remaining: 307
+Best route of _551_ collides with nets: _451_ _479_ _577_ 
+Ripping up blocking net _451_
+Ripping up blocking net _479_
+Ripping up blocking net _577_
+Nets remaining: 309
+Nets remaining: 308
+Nets remaining: 307
+Best route of _437_ collides with net: _443_ 
+Ripping up blocking net _443_
+Nets remaining: 307
+Nets remaining: 306
+Best route of clk collides with net: _415_ 
+Ripping up blocking net _415_
+Nets remaining: 306
+Nets remaining: 305
+Best route of B[1_bF$buf2] collides with net: B[1_bF$buf1] 
+Ripping up blocking net B[1_bF$buf1]
+Nets remaining: 305
+Best route of A[1] collides with nets: _551_ A[0] 
+Ripping up blocking net _551_
+Ripping up blocking net A[0]
+Nets remaining: 306
+Nets remaining: 305
+Best route of _387__bF$buf2 collides with net: _298_ 
+Ripping up blocking net _298_
+Nets remaining: 305
+Nets remaining: 304
+Best route of _798_ collides with nets: B[1_bF$buf2] _108_ _808_ 
+Ripping up blocking net B[1_bF$buf2]
+Ripping up blocking net _108_
+Ripping up blocking net _808_
+Nets remaining: 306
+Best route of B[0] collides with nets: _700_ _354_ 
+Ripping up blocking net _700_
+Ripping up blocking net _354_
+Nets remaining: 307
+Best route of A[5] collides with nets: A[1] B[0] _711_ 
+Ripping up blocking net A[1]
+Ripping up blocking net B[0]
+Ripping up blocking net _711_
+Nets remaining: 309
+Nets remaining: 308
+Best route of _101_ collides with nets: _49_ _115_ 
+Ripping up blocking net _49_
+Ripping up blocking net _115_
+Nets remaining: 309
+Nets remaining: 308
+Best route of _41_ collides with net: _40_ 
+Ripping up blocking net _40_
+Nets remaining: 308
+Nets remaining: 307
+Nets remaining: 306
+Best route of B[1_bF$buf3] collides with nets: _23_ _32_ _777_ 
+Ripping up blocking net _23_
+Ripping up blocking net _32_
+Ripping up blocking net _777_
+Nets remaining: 308
+Nets remaining: 307
+Nets remaining: 306
+Best route of _549_ collides with net: _491_ 
+Ripping up blocking net _491_
+Nets remaining: 306
+Nets remaining: 305
+Best route of _0_[4] collides with net: _445_ 
+Ripping up blocking net _445_
+Nets remaining: 305
+Best route of _455_ collides with nets: _589_ _437_ select[0] 
+Ripping up blocking net _589_
+Ripping up blocking net _437_
+Ripping up blocking net select[0]
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Best route of _387__bF$buf1 collides with nets: A[5] B[1_bF$buf3] 
+Ripping up blocking net A[5]
+Ripping up blocking net B[1_bF$buf3]
+Nets remaining: 306
+Best route of _486__bF$buf0 collides with net: _534_ 
+Ripping up blocking net _534_
+Nets remaining: 306
+Nets remaining: 305
+Nets remaining: 304
+Best route of _113_ collides with net: _171_ 
+Ripping up blocking net _171_
+Nets remaining: 304
+Best route of _326_ collides with net: _256_ 
+Ripping up blocking net _256_
+Nets remaining: 304
+Nets remaining: 303
+Best route of _165_ collides with nets: _197_ _159_ 
+Ripping up blocking net _197_
+Ripping up blocking net _159_
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Best route of _103_ collides with net: _168_ 
+Ripping up blocking net _168_
+Nets remaining: 302
+Nets remaining: 301
+Best route of _112_ collides with net: B[2_bF$buf2] 
+Ripping up blocking net B[2_bF$buf2]
+Nets remaining: 301
+Best route of _87_ collides with net: _809_ 
+Ripping up blocking net _809_
+Nets remaining: 301
+Nets remaining: 300
+Nets remaining: 299
+Nets remaining: 298
+Best route of _174_ collides with nets: _270_ _219_ 
+Ripping up blocking net _270_
+Ripping up blocking net _219_
+Nets remaining: 299
+Nets remaining: 298
+Best route of _552_ collides with nets: _387__bF$buf2 _417_ 
+Ripping up blocking net _387__bF$buf2
+Ripping up blocking net _417_
+Nets remaining: 299
+Best route of A[7] collides with nets: _455_ _390_ 
+Ripping up blocking net _455_
+Ripping up blocking net _390_
+Nets remaining: 300
+Best route of _92_ collides with nets: _151_ _103_ 
+Ripping up blocking net _151_
+Ripping up blocking net _103_
+Nets remaining: 301
+Best route of _104_ collides with nets: _403_ _504_ _779_ 
+Ripping up blocking net _403_
+Ripping up blocking net _504_
+Ripping up blocking net _779_
+Nets remaining: 303
+Nets remaining: 302
+Nets remaining: 301
+Best route of B[1_bF$buf0] collides with nets: _502_ _247_ _387_ _104_ 
+Ripping up blocking net _502_
+Ripping up blocking net _247_
+Ripping up blocking net _387_
+Ripping up blocking net _104_
+Nets remaining: 304
+Best route of _424_ collides with net: _458_ 
+Ripping up blocking net _458_
+Nets remaining: 304
+Best route of _756_ collides with net: A[7] 
+Ripping up blocking net A[7]
+Nets remaining: 304
+Best route of _254_ collides with net: _332_ 
+Ripping up blocking net _332_
+Nets remaining: 304
+Best route of B[2_bF$buf0] collides with nets: _8_ _295_ B[1_bF$buf0] _387__bF$buf1 _798_ 
+Ripping up blocking net _8_
+Ripping up blocking net _295_
+Ripping up blocking net B[1_bF$buf0]
+Ripping up blocking net _387__bF$buf1
+Ripping up blocking net _798_
+Nets remaining: 308
+Nets remaining: 307
+Nets remaining: 306
+Nets remaining: 305
+Best route of _175_ collides with nets: _170_ _185_ 
+Ripping up blocking net _170_
+Ripping up blocking net _185_
+Nets remaining: 306
+Nets remaining: 305
+Nets remaining: 304
+Nets remaining: 303
+Best route of _706_ collides with net: _705_ 
+Ripping up blocking net _705_
+Nets remaining: 303
+Nets remaining: 302
+Best route of _57_ collides with net: _101_ 
+Ripping up blocking net _101_
+Nets remaining: 302
+Nets remaining: 301
+Nets remaining: 300
+Best route of _131_ collides with net: _166_ 
+Ripping up blocking net _166_
+Nets remaining: 300
+Best route of _657_ collides with nets: _328_ _327_ _486__bF$buf1 
+Ripping up blocking net _328_
+Ripping up blocking net _327_
+Ripping up blocking net _486__bF$buf1
+Nets remaining: 302
+Nets remaining: 301
+Best route of B[2] collides with nets: _131_ _132_ _112_ 
+Ripping up blocking net _131_
+Ripping up blocking net _132_
+Ripping up blocking net _112_
+Nets remaining: 303
+Best route of B[2_bF$buf3] collides with nets: _744_ _92_ 
+Ripping up blocking net _744_
+Ripping up blocking net _92_
+Nets remaining: 304
+Best route of _95_ collides with nets: _144_ _657_ _59_ 
+Ripping up blocking net _144_
+Ripping up blocking net _657_
+Ripping up blocking net _59_
+Nets remaining: 306
+Nets remaining: 305
+Nets remaining: 304
+Nets remaining: 303
+Nets remaining: 302
+Best route of _289_ collides with nets: _280_ _252_ 
+Ripping up blocking net _280_
+Ripping up blocking net _252_
+
+No progress at level of effort 100; ending 2nd stage.
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 6706
+Failed net routes: 303
+----------------------------------------------
+*** Writing DEF file ALU_route.def
+emit_routes():  DEF file has 887 nets and 4 specialnets.
+but qrouter wants to write 889 nets and specialnets.
+----------------------------------------------
+Final: Failed net routes: 303
+List of failed nets follows:
+ B[4]
+ _303_
+ B[2_bF$buf1]
+ _708_
+ _413_
+ _434_
+ _268_
+ _234_
+ _433_
+ _406_
+ _35_
+ _778_
+ _299__bF$buf1
+ _4_
+ _186_
+ _149_
+ _172_
+ _200_
+ _162_
+ _387__bF$buf0
+ _249_
+ _605_
+ _707_
+ _486__bF$buf2
+ _767_
+ _820_
+ _38_
+ _104_
+ _107_
+ B[1]
+ _7_
+ _21_
+ _486_
+ _730_
+ _520_
+ _456_
+ _334_
+ _400_
+ _299__bF$buf3
+ _435_
+ _675_
+ _50_
+ _15_
+ _488_
+ _222_
+ _671_
+ _682_
+ _438_
+ _310_
+ _397_
+ _510_
+ _476_
+ _389_
+ A[3]
+ _668_
+ _321_
+ B[2_bF$buf1]
+ _553_
+ _522_
+ _333_
+ _264_
+ _750_
+ _426_
+ _673_
+ _463_
+ _454_
+ _590_
+ _223_
+ A[5]
+ _503_
+ A[4]
+ _0_[3]
+ _371_
+ _521_
+ _361_
+ _206_
+ _731_
+ _392_
+ _474_
+ _493_
+ _794_
+ _398_
+ _405_
+ _377_
+ _309_
+ _350_
+ _330_
+ _345_
+ _265_
+ _236_
+ _67_
+ _56_
+ _815_
+ _51_
+ _288_
+ _500_
+ _560_
+ B[5]
+ _620_
+ _683_
+ _228_
+ B[6]
+ _800_
+ _346_
+ _319_
+ _277_
+ _729_
+ _753_
+ _429_
+ _71_
+ _29_
+ _102_
+ _84_
+ _61_
+ A[0]
+ _513_
+ _387__bF$buf2
+ _386_
+ _796_
+ B[7]
+ _548_
+ _748_
+ _747_
+ _581_
+ _70_
+ _10_
+ _401_
+ _455_
+ _722_
+ _733_
+ _320_
+ _110_
+ _157_
+ _98_
+ _811_
+ _387__bF$buf2
+ _511_
+ _169_
+ _385_
+ _0_[5]
+ _383_
+ _431_
+ _774_
+ _195_
+ _150_
+ _193_
+ _136_
+ _79_
+ _258_
+ _365_
+ _25_
+ _396_
+ _387__bF$buf2
+ B[3]
+ _478_
+ _472_
+ _466_
+ _438_
+ _629_
+ _470_
+ _376_
+ _394_
+ _45_
+ _547_
+ _614_
+ _557_
+ _338_
+ _335_
+ _299__bF$buf2
+ _247_
+ _368_
+ _297_
+ A[2]
+ _464_
+ _304_
+ _509_
+ _447_
+ _469_
+ _594_
+ _425_
+ _580_
+ _621_
+ A[6]
+ _795_
+ _484_
+ _244_
+ _555_
+ _537_
+ _272_
+ _314_
+ _214_
+ _212_
+ _273_
+ _210_
+ _208_
+ _363_
+ _146_
+ _204_
+ _220_
+ _46_
+ _43_
+ _28_
+ _486__bF$buf3
+ _177_
+ _205_
+ _409_
+ _246_
+ _224_
+ _271_
+ _217_
+ _276_
+ _279_
+ _343_
+ _776_
+ _387__bF$buf3
+ _407_
+ _790_
+ _473_
+ _460_
+ _477_
+ _622_
+ _478_
+ _630_
+ _402_
+ _451_
+ _479_
+ _577_
+ _443_
+ _415_
+ B[1_bF$buf1]
+ _551_
+ A[0]
+ _298_
+ B[1_bF$buf2]
+ _108_
+ _808_
+ _700_
+ _354_
+ A[1]
+ B[0]
+ _711_
+ _49_
+ _115_
+ _40_
+ _23_
+ _32_
+ _777_
+ _491_
+ _445_
+ _589_
+ _437_
+ select[0]
+ A[5]
+ B[1_bF$buf3]
+ _534_
+ _171_
+ _256_
+ _197_
+ _159_
+ _168_
+ B[2_bF$buf2]
+ _809_
+ _270_
+ _219_
+ _387__bF$buf2
+ _417_
+ _455_
+ _390_
+ _151_
+ _103_
+ _403_
+ _504_
+ _779_
+ _502_
+ _247_
+ _387_
+ _104_
+ _458_
+ A[7]
+ _332_
+ _8_
+ _295_
+ B[1_bF$buf0]
+ _387__bF$buf1
+ _798_
+ _170_
+ _185_
+ _705_
+ _101_
+ _166_
+ _328_
+ _327_
+ _486__bF$buf1
+ _131_
+ _132_
+ _112_
+ _744_
+ _92_
+ _144_
+ _657_
+ _59_
+ _280_
+ _252_
+
+----------------------------------------------
+*** Writing RC file ALU_route.rc
+Running annotate.tcl antenna.out /home/zxcv/Downloads/synthesis/ALU.rtlnopwr.v
+  /home/zxcv/Downloads/synthesis/ALU.spc /home/zxcv/Downloads/synthesis/ALU.rtlnopwr.anno.v
+  /home/zxcv/Downloads/synthesis/ALU.anno.spc  /usr/share/qflow/tech/osu050/osu050_stdcells.sp /home/zxcv/Downloads/synthesis/ALU_powerground
+Running annotate.tcl
+found cell FILL pinlist vdd gnd
+Done with annotate.tcl
+Router script ended on Sunday 08 June 2025 04:53:32 PM IST

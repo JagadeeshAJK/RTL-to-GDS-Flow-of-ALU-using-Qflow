@@ -1,0 +1,10 @@
+Starting new log file Sun Jun  8 16:52:35 2025
+
+--------------------------------
+Qflow project setup
+--------------------------------
+
+Technology set to osu050 from existing qflow_vars.sh file
+Regenerating files for existing project ALU
+Running qrouter 1.4.71.T
+qrouter -noc  -s ALU.cfg
