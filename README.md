@@ -1,6 +1,6 @@
 # RTL-to-GDS Flow of ALU using Qflow
 
-This project demonstrates a complete ASIC digital design flow for a simple 2-bit Arithmetic Logic Unit (ALU), starting from Verilog RTL and ending with a GDSII layout, using open-source tools via Qflow.
+This project demonstrates a complete ASIC digital design flow for a simple Arithmetic Logic Unit (ALU), starting from Verilog RTL and ending with a GDSII layout, using open-source tools via Qflow.
 
 ---
 ## Qflow gui
